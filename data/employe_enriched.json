@@ -1,0 +1,1564 @@
+[
+  {
+    "employe": "Marie Dupont",
+    "evaluation": "Besoins de renforcer la gestion de projet et la communication.",
+    "score": 70,
+    "keywords": [
+      "gestion de projet",
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_1",
+        "score": 0.5747148701793047,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.5255969868891344,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.5204959613610131,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      }
+    ]
+  },
+  {
+    "employe": "Jean Martin",
+    "evaluation": "Compétences techniques satisfaisantes, mais manque d'initiative.",
+    "score": 65,
+    "keywords": [
+      "leadership",
+      "compétences techniques",
+      "autonomie"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_2",
+        "score": 0.4667151842164639,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_46",
+        "score": 0.4530722357800111,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.4454883176706659,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Lucie Petit",
+    "evaluation": "Excellente capacité d'adaptation, mais peut améliorer la rigueur.",
+    "score": 80,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_42",
+        "score": 0.39204780855923393,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_20",
+        "score": 0.38308021911388795,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/restructuration-org",
+        "content": "Cette étude de cas analyse le processus de restructuration organisationnelle d'une entreprise confrontée à des défis de compétitivité. Le document décrit les changements apportés aux structures hiérarchiques, la réaffectation des ressources et la mise en œuvre de nouvelles stratégies pour améliorer l'efficacité interne.\n\nLes résultats montrent une meilleure agilité, une réduction des coûts et une amélioration de la communication interne. Les enseignements tirés offrent des pistes concrètes pour d'autres organisations en phase de transformation ou de réorganisation."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.3709333186624635,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      }
+    ]
+  },
+  {
+    "employe": "Paul Durand",
+    "evaluation": "Manque de proactivité et de leadership.",
+    "score": 60,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.42263544056145,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.4034670274799981,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_56",
+        "score": 0.3627072856521577,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/tendances-management",
+        "content": "Ce document présente un panorama des tendances actuelles du management moderne, en abordant des sujets tels que le leadership collaboratif, l'innovation organisationnelle et la digitalisation des processus de travail."
+      }
+    ]
+  },
+  {
+    "employe": "Sophie Bernard",
+    "evaluation": "Bonnes compétences interpersonnelles, améliorer la gestion du temps.",
+    "score": 75,
+    "keywords": [
+      "gestion du temps"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.5824418464358476,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5367109783557046,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_47",
+        "score": 0.5300315492225008,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/finances-personnelles",
+        "content": "Cette formation en gestion des finances personnelles pour professionnels offre des outils pour optimiser la gestion de budget, l'investissement et la planification financière, adaptés aux contraintes du milieu professionnel."
+      }
+    ]
+  },
+  {
+    "employe": "Antoine Moreau",
+    "evaluation": "Fort potentiel en analyse, mais besoin d'un accompagnement en communication.",
+    "score": 68,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_19",
+        "score": 0.4602264304578957,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      },
+      {
+        "id": "doc_42",
+        "score": 0.4317063265183757,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.4226835721990869,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      }
+    ]
+  },
+  {
+    "employe": "Claire Laurent",
+    "evaluation": "Bonne maîtrise des outils informatiques, renforcer la gestion du stress.",
+    "score": 72,
+    "keywords": [
+      "compétences techniques",
+      "gestion du stress"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_3",
+        "score": 0.6231992273429314,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-stress",
+        "content": "La formation en gestion du stress est destinée à aider les employés à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace. Le programme propose des techniques de relaxation, de méditation, et des outils pour mieux gérer les émotions dans un contexte professionnel.\n\nD'une durée de 20 heures et pour un coût d'environ 800 EUR, cette formation interactive combine des séances théoriques et des ateliers pratiques, permettant aux participants de bénéficier de conseils personnalisés et d'exercices de groupe pour une meilleure gestion de leur bien-être au travail."
+      },
+      {
+        "id": "doc_22",
+        "score": 0.5478899289306775,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      },
+      {
+        "id": "doc_47",
+        "score": 0.5201122203068638,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/finances-personnelles",
+        "content": "Cette formation en gestion des finances personnelles pour professionnels offre des outils pour optimiser la gestion de budget, l'investissement et la planification financière, adaptés aux contraintes du milieu professionnel."
+      }
+    ]
+  },
+  {
+    "employe": "Nicolas Robert",
+    "evaluation": "Peut améliorer la qualité des livrables et l'organisation.",
+    "score": 66,
+    "keywords": [
+      "gestion de projet"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_39",
+        "score": 0.5586891479917347,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.545384566902905,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_14",
+        "score": 0.5246598369305098,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/amelioration-qualite",
+        "content": "Dans cette étude de cas, l'amélioration de la qualité des produits et services dans une entreprise manufacturière est analysée en profondeur. Le document détaille les stratégies adoptées, telles que la mise en place de systèmes de contrôle qualité rigoureux, la formation des équipes et la réalisation d'audits réguliers.\n\nLes résultats montrent une diminution significative des défauts, une augmentation de la satisfaction client et une meilleure conformité aux normes industrielles. Les enseignements tirés fournissent des pistes pour d'autres organisations cherchant à optimiser leurs processus qualité."
+      }
+    ]
+  },
+  {
+    "employe": "Isabelle Girard",
+    "evaluation": "Excellente gestion de projet et aptitude à manager une équipe.",
+    "score": 85,
+    "keywords": [
+      "gestion de projet",
+      "travail d'équipe"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_39",
+        "score": 0.5031990910044972,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_1",
+        "score": 0.5000987417629295,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.4974941585914271,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Julien Lefevre",
+    "evaluation": "Manque de vision stratégique et de suivi rigoureux.",
+    "score": 62,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_36",
+        "score": 0.40227078930179844,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/strategie-entreprise",
+        "content": "Ce programme de formation en stratégie d'entreprise aide les dirigeants à définir des orientations stratégiques claires, à analyser le marché et à mettre en place des plans d'action pour renforcer la compétitivité de leur organisation."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.35788028297632796,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.3576630648193171,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      }
+    ]
+  },
+  {
+    "employe": "Audrey Morel",
+    "evaluation": "Bonne communication, mais à renforcer en gestion de conflit.",
+    "score": 70,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_22",
+        "score": 0.5941073488318533,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.5207375027591075,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.49371409479186423,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Thomas Dupuis",
+    "evaluation": "Compétences techniques à parfaire et communication à développer.",
+    "score": 64,
+    "keywords": [
+      "communication",
+      "compétences techniques"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_42",
+        "score": 0.5789582841516794,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.5044450521006911,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.49879266858458676,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      }
+    ]
+  },
+  {
+    "employe": "Camille Simon",
+    "evaluation": "Très bonne adaptabilité et réactivité, à encourager.",
+    "score": 78,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_44",
+        "score": 0.4511366694472184,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/transformation-agile",
+        "content": "Ce document présente les meilleures pratiques pour une transformation agile, en illustrant comment les entreprises peuvent adapter leurs structures et méthodes de travail pour répondre aux défis du marché actuel."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.43914785570699183,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_17",
+        "score": 0.41963572921700126,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/integration-tech",
+        "content": "Cette étude de cas explore l'intégration des nouvelles technologies dans une entreprise industrielle traditionnelle. Le document détaille le processus d'évaluation des besoins, la sélection des technologies innovantes et leur mise en œuvre, tout en abordant les défis rencontrés durant cette transition.\n\nLes résultats mettent en avant une amélioration notable de l'efficacité opérationnelle, une réduction des coûts et une meilleure compétitivité sur le marché. Des recommandations pratiques y sont proposées pour aider d'autres entreprises à réussir cette intégration."
+      }
+    ]
+  },
+  {
+    "employe": "Mathieu Renault",
+    "evaluation": "Doit améliorer la planification et l'organisation de son travail.",
+    "score": 63,
+    "keywords": [
+      "gestion de projet"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.5964819197484712,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.5650544054623284,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_1",
+        "score": 0.5592548475913197,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      }
+    ]
+  },
+  {
+    "employe": "Emma Gauthier",
+    "evaluation": "Solide dans ses connaissances techniques, manque de flexibilité.",
+    "score": 68,
+    "keywords": [
+      "compétences techniques"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_13",
+        "score": 0.4319497913142111,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/competences-techniques",
+        "content": "Ce programme de formation en compétences techniques est destiné à renforcer les savoir-faire pratiques des employés dans le domaine des technologies de l'information. Le programme couvre des sujets tels que la programmation, la cybersécurité, l'analyse de données et l'utilisation des outils collaboratifs modernes.\n\nLa formation s'étale sur 30 heures et est proposée à un coût d'environ 1300 EUR. Elle combine cours théoriques, travaux pratiques et projets collaboratifs afin de garantir une compréhension approfondie et une application concrète des compétences acquises."
+      },
+      {
+        "id": "doc_40",
+        "score": 0.3741932750495306,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/cybersecurite-avance",
+        "content": "Cette formation en cybersécurité avancée propose d'approfondir les techniques de protection des systèmes informatiques, incluant la détection des intrusions, la gestion des incidents et les stratégies de défense proactives."
+      },
+      {
+        "id": "doc_46",
+        "score": 0.36019408020970445,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      }
+    ]
+  },
+  {
+    "employe": "Alexandre Faure",
+    "evaluation": "Excellente capacité à travailler en équipe, pourrait mieux gérer le stress.",
+    "score": 76,
+    "keywords": [
+      "travail d'équipe",
+      "gestion du stress"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_3",
+        "score": 0.5430891238530111,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-stress",
+        "content": "La formation en gestion du stress est destinée à aider les employés à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace. Le programme propose des techniques de relaxation, de méditation, et des outils pour mieux gérer les émotions dans un contexte professionnel.\n\nD'une durée de 20 heures et pour un coût d'environ 800 EUR, cette formation interactive combine des séances théoriques et des ateliers pratiques, permettant aux participants de bénéficier de conseils personnalisés et d'exercices de groupe pour une meilleure gestion de leur bien-être au travail."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.509236838661878,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_22",
+        "score": 0.4912324310590288,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      }
+    ]
+  },
+  {
+    "employe": "Chloé Mercier",
+    "evaluation": "Peut améliorer la gestion de priorités et la communication interne.",
+    "score": 69,
+    "keywords": [
+      "communication",
+      "gestion du temps"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.5872208214400241,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.5587898258656191,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5384815350416791,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Maxime Dupont",
+    "evaluation": "Bon relationnel, mais doit développer ses compétences en leadership.",
+    "score": 71,
+    "keywords": [
+      "leadership",
+      "travail d'équipe"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.4848685636744654,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.4783223304662709,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.4562973782685581,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      }
+    ]
+  },
+  {
+    "employe": "Laura Caron",
+    "evaluation": "Besoin de formation en gestion du temps et en organisation.",
+    "score": 66,
+    "keywords": [
+      "gestion de projet",
+      "gestion du temps"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_1",
+        "score": 0.6149347191191352,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      },
+      {
+        "id": "doc_27",
+        "score": 0.5559445414375324,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-risques",
+        "content": "Cette formation en gestion des risques propose des méthodes d'identification, d'évaluation et de mitigation des risques dans les projets, afin d'assurer une meilleure résilience organisationnelle."
+      },
+      {
+        "id": "doc_28",
+        "score": 0.5523621657673279,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-rh",
+        "content": "Le programme de formation en gestion des ressources humaines couvre le recrutement, la formation, la gestion des talents et la motivation des équipes, avec des études de cas et des ateliers interactifs."
+      }
+    ]
+  },
+  {
+    "employe": "Vincent Lemaire",
+    "evaluation": "Performances solides, mais manque d'initiative sur des projets innovants.",
+    "score": 74,
+    "keywords": [
+      "gestion de projet",
+      "leadership",
+      "autonomie"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_54",
+        "score": 0.48288147405879356,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projets-innovants",
+        "content": "Le programme de formation en gestion de projets innovants vise à encourager la créativité et l'expérimentation, en intégrant des méthodologies de prototypage rapide et des techniques de brainstorming collaboratif."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.42648969104834455,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_15",
+        "score": 0.419843289617327,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-performance",
+        "content": "Ce document présente les meilleures pratiques pour la gestion de la performance au sein des entreprises. Il propose des méthodes d'évaluation continue, des retours d'expérience réguliers et l'utilisation d'outils digitaux pour suivre et optimiser les performances individuelles et collectives.\n\nLe guide s'appuie sur des études de cas et des témoignages d'entreprises ayant mis en place des systèmes efficaces de gestion de la performance, offrant ainsi des recommandations pour instaurer une culture d'amélioration continue et de valorisation des compétences."
+      }
+    ]
+  },
+  {
+    "employe": "Marion Legrand",
+    "evaluation": "Très bonne capacité d'analyse, à renforcer en communication.",
+    "score": 77,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_42",
+        "score": 0.47276044641623277,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.4659907502053137,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_20",
+        "score": 0.4209064103100431,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/restructuration-org",
+        "content": "Cette étude de cas analyse le processus de restructuration organisationnelle d'une entreprise confrontée à des défis de compétitivité. Le document décrit les changements apportés aux structures hiérarchiques, la réaffectation des ressources et la mise en œuvre de nouvelles stratégies pour améliorer l'efficacité interne.\n\nLes résultats montrent une meilleure agilité, une réduction des coûts et une amélioration de la communication interne. Les enseignements tirés offrent des pistes concrètes pour d'autres organisations en phase de transformation ou de réorganisation."
+      }
+    ]
+  },
+  {
+    "employe": "Florian Perrot",
+    "evaluation": "Doit améliorer sa réactivité face aux imprévus.",
+    "score": 63,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_41",
+        "score": 0.4963802027350642,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-incidents",
+        "content": "Ce document rassemble les meilleures pratiques pour la gestion des incidents, proposant des protocoles clairs et des outils de communication pour répondre efficacement aux situations imprévues."
+      },
+      {
+        "id": "doc_29",
+        "score": 0.4715832688678926,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-crise",
+        "content": "Ce document présente les meilleures pratiques en gestion de crise, détaillant les étapes de préparation, de réaction et de rétablissement, afin d'assurer la continuité des activités en cas d'incident majeur."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.4544710028732328,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      }
+    ]
+  },
+  {
+    "employe": "Elise Marchand",
+    "evaluation": "Bonne capacité de synthèse, à améliorer en gestion des priorités.",
+    "score": 70,
+    "keywords": [
+      "gestion du temps"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.5488803612392855,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.47001448177420013,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.4569176565006804,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Guillaume Dupuis",
+    "evaluation": "Besoin d'un accompagnement en management et en prise de décision.",
+    "score": 65,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_2",
+        "score": 0.605201311313669,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_58",
+        "score": 0.5542736903991636,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_36",
+        "score": 0.5101904124411959,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/strategie-entreprise",
+        "content": "Ce programme de formation en stratégie d'entreprise aide les dirigeants à définir des orientations stratégiques claires, à analyser le marché et à mettre en place des plans d'action pour renforcer la compétitivité de leur organisation."
+      }
+    ]
+  },
+  {
+    "employe": "Amélie Roussel",
+    "evaluation": "Excellente maîtrise des outils de travail collaboratif, à encourager.",
+    "score": 82,
+    "keywords": [
+      "compétences techniques"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_4",
+        "score": 0.5456982218953661,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_37",
+        "score": 0.5377766803378884,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-innovation",
+        "content": "Ce document présente un ensemble de meilleures pratiques pour stimuler l'innovation au sein des organisations, en favorisant la créativité, l'expérimentation et la collaboration interdisciplinaire."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5332139211615142,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Benoît Lefebvre",
+    "evaluation": "Peut améliorer son autonomie et son sens de l'initiative.",
+    "score": 67,
+    "keywords": [
+      "leadership",
+      "autonomie"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.503706933036072,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.4526646207528908,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.44382863492159225,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      }
+    ]
+  },
+  {
+    "employe": "Juliette Fournier",
+    "evaluation": "Compétences techniques solides, à renforcer en communication.",
+    "score": 73,
+    "keywords": [
+      "communication",
+      "compétences techniques"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_42",
+        "score": 0.5484752654836335,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.5119201845654888,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_13",
+        "score": 0.4797843766603044,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/competences-techniques",
+        "content": "Ce programme de formation en compétences techniques est destiné à renforcer les savoir-faire pratiques des employés dans le domaine des technologies de l'information. Le programme couvre des sujets tels que la programmation, la cybersécurité, l'analyse de données et l'utilisation des outils collaboratifs modernes.\n\nLa formation s'étale sur 30 heures et est proposée à un coût d'environ 1300 EUR. Elle combine cours théoriques, travaux pratiques et projets collaboratifs afin de garantir une compréhension approfondie et une application concrète des compétences acquises."
+      }
+    ]
+  },
+  {
+    "employe": "Sébastien Robert",
+    "evaluation": "Manque de rigueur dans l'organisation du travail.",
+    "score": 60,
+    "keywords": [
+      "gestion de projet"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_1",
+        "score": 0.5116350649842047,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.5091618127671952,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_27",
+        "score": 0.4827140922900565,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-risques",
+        "content": "Cette formation en gestion des risques propose des méthodes d'identification, d'évaluation et de mitigation des risques dans les projets, afin d'assurer une meilleure résilience organisationnelle."
+      }
+    ]
+  },
+  {
+    "employe": "Céline Rolland",
+    "evaluation": "Bon sens de l'analyse, mais doit travailler sur la gestion du stress.",
+    "score": 71,
+    "keywords": [
+      "gestion du stress"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_3",
+        "score": 0.5101807563276306,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-stress",
+        "content": "La formation en gestion du stress est destinée à aider les employés à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace. Le programme propose des techniques de relaxation, de méditation, et des outils pour mieux gérer les émotions dans un contexte professionnel.\n\nD'une durée de 20 heures et pour un coût d'environ 800 EUR, cette formation interactive combine des séances théoriques et des ateliers pratiques, permettant aux participants de bénéficier de conseils personnalisés et d'exercices de groupe pour une meilleure gestion de leur bien-être au travail."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.4484998465366297,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.4364495321148037,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Eric Petit",
+    "evaluation": "Bonne capacité à résoudre des problèmes, à améliorer en leadership.",
+    "score": 75,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.5024675958018741,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.47566588218893546,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_22",
+        "score": 0.4705480773752241,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      }
+    ]
+  },
+  {
+    "employe": "Valérie Giraud",
+    "evaluation": "Excellente communication, mais besoin de renforcer les compétences techniques.",
+    "score": 68,
+    "keywords": [
+      "communication",
+      "compétences techniques"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_4",
+        "score": 0.5537364883366391,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_42",
+        "score": 0.5280411251666084,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_13",
+        "score": 0.4903656578286645,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/competences-techniques",
+        "content": "Ce programme de formation en compétences techniques est destiné à renforcer les savoir-faire pratiques des employés dans le domaine des technologies de l'information. Le programme couvre des sujets tels que la programmation, la cybersécurité, l'analyse de données et l'utilisation des outils collaboratifs modernes.\n\nLa formation s'étale sur 30 heures et est proposée à un coût d'environ 1300 EUR. Elle combine cours théoriques, travaux pratiques et projets collaboratifs afin de garantir une compréhension approfondie et une application concrète des compétences acquises."
+      }
+    ]
+  },
+  {
+    "employe": "Adrien Noël",
+    "evaluation": "Doit améliorer la gestion des imprévus et la planification.",
+    "score": 64,
+    "keywords": [
+      "gestion de projet"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_39",
+        "score": 0.587283741242843,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_27",
+        "score": 0.5733921226414478,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-risques",
+        "content": "Cette formation en gestion des risques propose des méthodes d'identification, d'évaluation et de mitigation des risques dans les projets, afin d'assurer une meilleure résilience organisationnelle."
+      },
+      {
+        "id": "doc_1",
+        "score": 0.5490792386255845,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      }
+    ]
+  },
+  {
+    "employe": "Aurélie Carpentier",
+    "evaluation": "Très bonne adaptabilité, à renforcer en gestion de projet.",
+    "score": 78,
+    "keywords": [
+      "gestion de projet"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_39",
+        "score": 0.5728340523577482,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_27",
+        "score": 0.5390597186893936,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-risques",
+        "content": "Cette formation en gestion des risques propose des méthodes d'identification, d'évaluation et de mitigation des risques dans les projets, afin d'assurer une meilleure résilience organisationnelle."
+      },
+      {
+        "id": "doc_54",
+        "score": 0.49993261219055707,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projets-innovants",
+        "content": "Le programme de formation en gestion de projets innovants vise à encourager la créativité et l'expérimentation, en intégrant des méthodologies de prototypage rapide et des techniques de brainstorming collaboratif."
+      }
+    ]
+  },
+  {
+    "employe": "Didier Marchal",
+    "evaluation": "Peut améliorer sa proactivité et son autonomie.",
+    "score": 66,
+    "keywords": [
+      "autonomie"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_19",
+        "score": 0.426896133201203,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      },
+      {
+        "id": "doc_5",
+        "score": 0.42532543265984324,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.4011578270670688,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      }
+    ]
+  },
+  {
+    "employe": "Sandrine Baron",
+    "evaluation": "Excellentes compétences relationnelles, à encourager.",
+    "score": 80,
+    "keywords": [
+      "travail d'équipe"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_6",
+        "score": 0.5403474540640794,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.4685947432959663,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_46",
+        "score": 0.4525080646416726,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      }
+    ]
+  },
+  {
+    "employe": "Pascal Dupont",
+    "evaluation": "Manque de clarté dans la communication et la prise de décision.",
+    "score": 62,
+    "keywords": [
+      "communication",
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_2",
+        "score": 0.4685948180494812,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.45982919793100296,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_58",
+        "score": 0.4344114828657435,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      }
+    ]
+  },
+  {
+    "employe": "Julie Lambert",
+    "evaluation": "Bonne maîtrise des outils numériques, à améliorer en gestion de projet.",
+    "score": 73,
+    "keywords": [
+      "gestion de projet",
+      "compétences techniques"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_1",
+        "score": 0.5463585759016032,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.5432123238382773,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_7",
+        "score": 0.5235342642806426,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/transformation-digitale",
+        "content": "Cette étude de cas explore la transformation digitale d'une entreprise traditionnelle qui a su moderniser ses processus en adoptant des technologies innovantes. L'analyse détaille les étapes clés du projet, les défis rencontrés et les solutions mises en place pour assurer une transition en douceur.\n\nLe document met en lumière l'importance de la formation des employés, de l'intégration des nouveaux outils numériques et de la réorganisation des processus internes. Les résultats obtenus illustrent une amélioration significative de l'efficacité opérationnelle et de la réactivité de l'entreprise face aux évolutions du marché."
+      }
+    ]
+  },
+  {
+    "employe": "Olivier Caron",
+    "evaluation": "Doit renforcer sa capacité à prioriser les tâches.",
+    "score": 65,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.48442531349660495,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_46",
+        "score": 0.416314947035617,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.38794891843135515,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Nathalie Faivre",
+    "evaluation": "Compétences techniques et relationnelles équilibrées, bon potentiel.",
+    "score": 77,
+    "keywords": [
+      "travail d'équipe",
+      "compétences techniques"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_46",
+        "score": 0.48842094864262925,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.4775592416581415,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      },
+      {
+        "id": "doc_23",
+        "score": 0.4596255093844489,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/service-client",
+        "content": "Le programme de formation en service client est conçu pour développer des compétences relationnelles et techniques afin d'améliorer la satisfaction et la fidélisation des clients, à travers des simulations et des retours d'expérience."
+      }
+    ]
+  },
+  {
+    "employe": "Romain Marchand",
+    "evaluation": "Besoin d'améliorer l'organisation et la gestion du temps.",
+    "score": 63,
+    "keywords": [
+      "gestion de projet",
+      "gestion du temps"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.6138939286673761,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_1",
+        "score": 0.5493227036290387,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.5357509165889515,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      }
+    ]
+  },
+  {
+    "employe": "Manon Gauthier",
+    "evaluation": "Très bonne gestion de la communication interne, à développer en leadership.",
+    "score": 76,
+    "keywords": [
+      "communication",
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_4",
+        "score": 0.6118288786855076,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5156820286439561,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_52",
+        "score": 0.5003183834342433,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/communication-crise",
+        "content": "Ce document répertorie les meilleures pratiques en communication de crise, incluant la préparation de messages clés, la gestion des médias et la coordination avec les parties prenantes pour minimiser l'impact d'une situation critique."
+      }
+    ]
+  },
+  {
+    "employe": "Christophe Dupuis",
+    "evaluation": "Peut améliorer son autonomie et la qualité des livrables.",
+    "score": 68,
+    "keywords": [
+      "autonomie"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_9",
+        "score": 0.497835574894542,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_14",
+        "score": 0.48047969925562656,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/amelioration-qualite",
+        "content": "Dans cette étude de cas, l'amélioration de la qualité des produits et services dans une entreprise manufacturière est analysée en profondeur. Le document détaille les stratégies adoptées, telles que la mise en place de systèmes de contrôle qualité rigoureux, la formation des équipes et la réalisation d'audits réguliers.\n\nLes résultats montrent une diminution significative des défauts, une augmentation de la satisfaction client et une meilleure conformité aux normes industrielles. Les enseignements tirés fournissent des pistes pour d'autres organisations cherchant à optimiser leurs processus qualité."
+      },
+      {
+        "id": "doc_34",
+        "score": 0.4493725860536065,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-logistique",
+        "content": "Cette étude de cas se focalise sur l'optimisation logistique dans une entreprise internationale, en illustrant comment l'automatisation et la digitalisation ont permis de réduire les coûts et d'améliorer les délais de livraison."
+      }
+    ]
+  },
+  {
+    "employe": "Sarah Lambert",
+    "evaluation": "Excellente capacité d'analyse, à renforcer en gestion de projet.",
+    "score": 80,
+    "keywords": [
+      "gestion de projet"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_1",
+        "score": 0.506917828885256,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      },
+      {
+        "id": "doc_27",
+        "score": 0.5014347750235149,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-risques",
+        "content": "Cette formation en gestion des risques propose des méthodes d'identification, d'évaluation et de mitigation des risques dans les projets, afin d'assurer une meilleure résilience organisationnelle."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.4870905672444945,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      }
+    ]
+  },
+  {
+    "employe": "Laurent Morel",
+    "evaluation": "Manque de dynamisme et d'initiative, formation recommandée.",
+    "score": 61,
+    "keywords": [
+      "leadership",
+      "autonomie"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.5483236354526784,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.529570327990104,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5018825333283543,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Justine Renaud",
+    "evaluation": "Bonne réactivité et adaptabilité, à encourager.",
+    "score": 75,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_44",
+        "score": 0.4591369210521383,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/transformation-agile",
+        "content": "Ce document présente les meilleures pratiques pour une transformation agile, en illustrant comment les entreprises peuvent adapter leurs structures et méthodes de travail pour répondre aux défis du marché actuel."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.4476698995111472,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_37",
+        "score": 0.4392686762974377,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-innovation",
+        "content": "Ce document présente un ensemble de meilleures pratiques pour stimuler l'innovation au sein des organisations, en favorisant la créativité, l'expérimentation et la collaboration interdisciplinaire."
+      }
+    ]
+  },
+  {
+    "employe": "Marc Lemoine",
+    "evaluation": "Doit améliorer la gestion du stress et la communication.",
+    "score": 64,
+    "keywords": [
+      "communication",
+      "gestion du stress"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_3",
+        "score": 0.6127458752605537,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-stress",
+        "content": "La formation en gestion du stress est destinée à aider les employés à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace. Le programme propose des techniques de relaxation, de méditation, et des outils pour mieux gérer les émotions dans un contexte professionnel.\n\nD'une durée de 20 heures et pour un coût d'environ 800 EUR, cette formation interactive combine des séances théoriques et des ateliers pratiques, permettant aux participants de bénéficier de conseils personnalisés et d'exercices de groupe pour une meilleure gestion de leur bien-être au travail."
+      },
+      {
+        "id": "doc_22",
+        "score": 0.5817273884705647,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5614161249306915,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Eva Dumas",
+    "evaluation": "Excellente compréhension des processus, à développer en leadership.",
+    "score": 79,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.5450517686225576,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.5240860185390606,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5007826485756062,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ]
+  },
+  {
+    "employe": "Thierry Simon",
+    "evaluation": "Besoin de renforcer la prise de décision et la gestion de conflit.",
+    "score": 66,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_22",
+        "score": 0.5948939625803082,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.5939883449239879,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_58",
+        "score": 0.5299681424877326,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      }
+    ]
+  },
+  {
+    "employe": "Agnès Noël",
+    "evaluation": "Bonne capacité à collaborer en équipe, à améliorer en autonomie.",
+    "score": 70,
+    "keywords": [
+      "travail d'équipe",
+      "autonomie"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_6",
+        "score": 0.47730093880022784,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.43727327603700616,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.4210441357520156,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      }
+    ]
+  },
+  {
+    "employe": "Didier Bernard",
+    "evaluation": "Excellentes compétences techniques, formation en management recommandée.",
+    "score": 82,
+    "keywords": [
+      "leadership",
+      "compétences techniques"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_2",
+        "score": 0.6101838362890397,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_46",
+        "score": 0.5708135826833881,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      },
+      {
+        "id": "doc_58",
+        "score": 0.5571217182077677,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      }
+    ]
+  }
+]

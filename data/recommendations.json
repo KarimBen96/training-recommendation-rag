@@ -1,0 +1,1556 @@
+[
+  {
+    "employe": "Marie Dupont",
+    "evaluation": "Besoins de renforcer la gestion de projet et la communication.",
+    "score": 70,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_4",
+        "score": 0.5467911248225203,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_1",
+        "score": 0.5430682174874193,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      },
+      {
+        "id": "doc_42",
+        "score": 0.5134578429730468,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\n   Upon evaluating Marie Dupont, it has been identified that there is a need to strengthen her project management and communication skills. Her evaluation score is 70/100, indicating room for improvement in these areas.\n\n2. Proposed Training Plan:\n   Based on the available training programs, I recommend a personalized training plan for Marie Dupont as follows:\n   - Training 1: meilleures pratiques en communication\n   - Training 2: programme de formation en gestion de projet\n\n3. Addressing Specific Needs:\n   - Training 1 focuses on improving communication skills by providing best practices for both internal and external communications within the company. This will help Marie enhance her clarity in messages, active listening skills, and promote a culture of transparency and collaboration.\n   - Training 2 will equip Marie with the necessary tools and techniques for effective project management, covering areas such as strategic planning, risk analysis, resource management, and stakeholder communication.\n\n4. Training Schedule:\n   To optimize the training experience for Marie, I recommend the following schedule:\n   - Begin with Training 1 on meilleures pratiques en communication to address her communication needs.\n   - Follow up with Training 2 on gestion de projet to strengthen her project management skills.\n   - Allocate sufficient time for each training program to ensure thorough understanding and practical application of the concepts.\n\nBy following this personalized training plan, Marie will be able to enhance her project management and communication skills, ultimately leading to improved performance and effectiveness in her role."
+  },
+  {
+    "employe": "Jean Martin",
+    "evaluation": "Compétences techniques satisfaisantes, mais manque d'initiative.",
+    "score": 65,
+    "keywords": [
+      "leadership",
+      "autonomy"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_2",
+        "score": 0.4529257478404378,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.4323922001913809,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_58",
+        "score": 0.4313451603459388,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      }
+    ],
+    "recommendation": "Recommendation Report for Jean Martin's Professional Development\n\n1. Development Needs:\nJean Martin's evaluation highlights satisfactory technical skills but a lack of initiative. This suggests a need for leadership and team management training to enhance decision-making abilities and foster a proactive approach.\n\n2. Proposed Training Plan:\nBased on Jean Martin's evaluation and available programs, I recommend enrolling him in the following training:\n- Training 1: Leadership Development Program (doc_2)\n- Training 2: Team Management Best Practices (doc_6)\n\n3. How These Programs Address Jean Martin's Needs:\nThe Leadership Development Program focuses on enhancing managerial skills, decision-making, and team motivation, addressing Jean's lack of initiative. The Team Management Best Practices training provides strategies for strengthening team cohesion, delegation, and motivation, improving Jean's ability to lead effectively.\n\n4. Training Schedule:\nTo maximize Jean's development, I suggest the following schedule:\n- Month 1: Leadership Development Program (32 hours)\n- Month 2: Team Management Best Practices (self-paced)\nThis schedule allows Jean to apply newly acquired skills from the Leadership Program immediately in the Team Management training.\n\nOverall, this personalized training plan aims to bridge the gap in Jean Martin's professional development, equipping him with the necessary leadership skills to excel in his role."
+  },
+  {
+    "employe": "Lucie Petit",
+    "evaluation": "Excellente capacité d'adaptation, mais peut améliorer la rigueur.",
+    "score": 80,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_42",
+        "score": 0.39208262460624654,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_20",
+        "score": 0.3831071293855747,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/restructuration-org",
+        "content": "Cette étude de cas analyse le processus de restructuration organisationnelle d'une entreprise confrontée à des défis de compétitivité. Le document décrit les changements apportés aux structures hiérarchiques, la réaffectation des ressources et la mise en œuvre de nouvelles stratégies pour améliorer l'efficacité interne.\n\nLes résultats montrent une meilleure agilité, une réduction des coûts et une amélioration de la communication interne. Les enseignements tirés offrent des pistes concrètes pour d'autres organisations en phase de transformation ou de réorganisation."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.3710172796126718,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      }
+    ],
+    "recommendation": "Recommendation Report for Lucie Petit's Professional Development\n\n1. Development Needs Summary:\n   Lucie Petit has shown excellent adaptability but could improve in terms of rigor based on her evaluation score of 80/100. Therefore, the identified development needs include enhancing rigor in her work approach to complement her adaptability skills.\n\n2. Personalized Training Plan:\n   Based on the available training programs, the following personalized training plan is proposed for Lucie Petit:\n   - Training 1: Programme de Formation en Communication Interculturelle (doc_42)\n   - Training 2: Étude de Cas sur la Restructuration Organisationnelle (doc_20)\n   - Training 3: Étude de Cas sur l'Optimisation des Processus (doc_9)\n\n3. How These Programs Address Employee's Specific Needs:\n   - Training 1 on Communication Interculturelle will help Lucie develop skills to interact effectively in an international environment, enhancing her adaptability further.\n   - Training 2 on Restructuration Organisationnelle will provide insights into improving organizational efficiency and could aid Lucie in understanding the importance of structure and rigor in processes.\n   - Training 3 on Optimisation des Processus will assist Lucie in enhancing her rigor by focusing on process optimization, efficiency, and continuous improvement.\n\n4. Training Schedule:\n   It is recommended that Lucie Petit undergo Training 1 first to strengthen her adaptability skills, followed by Training 2 and Training 3 to address the need for improved rigor. A schedule of completing one training program every month over the next three months is suggested to allow for gradual skill development and application in her work.\n\nThis personalized training plan aims to enhance Lucie Petit's professional development by addressing her specific needs effectively. Following this structured approach will enable her to further excel in her role and contribute more effectively to the organization."
+  },
+  {
+    "employe": "Paul Durand",
+    "evaluation": "Manque de proactivité et de leadership.",
+    "score": 60,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.4227055495939172,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.40345223674503594,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_56",
+        "score": 0.3627072856521577,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/tendances-management",
+        "content": "Ce document présente un panorama des tendances actuelles du management moderne, en abordant des sujets tels que le leadership collaboratif, l'innovation organisationnelle et la digitalisation des processus de travail."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nPaul Durand's evaluation highlighted a lack of proactivity and leadership skills, with a score of 60/100. These areas are crucial for his professional growth and effectiveness in his role.\n\n2. Proposed Training Plan:\nBased on the available training programs, I recommend a personalized training plan for Paul Durand as follows:\n- Enroll in Training 1: Leadership Transformational Program\n- Enroll in Training 2: Leadership Development Program\n\n3. Program Relevance:\nTraining 1 focuses on inspiring and motivating teams through visionary leadership, empathy, and adaptability to market changes. This program directly addresses Paul's need for improved leadership skills and proactivity. Training 2, on the other hand, covers essential managerial and decision-making skills, including team management, conflict resolution, employee motivation, and strategic decision-making in a competitive environment.\n\n4. Training Schedule:\nI suggest scheduling Training 1 and Training 2 consecutively to maximize the impact of the learning experience. Paul should dedicate focused time to each program to fully absorb the content and actively participate in the coaching sessions, exercises, and collaborative workshops provided. A schedule of 16 hours per week for each training, spread over two weeks, would be ideal for effective skill development.\n\nBy participating in these training programs, Paul Durand will have the opportunity to enhance his leadership abilities, improve his proactivity, and ultimately excel in his role within the organization."
+  },
+  {
+    "employe": "Sophie Bernard",
+    "evaluation": "Bonnes compétences interpersonnelles, améliorer la gestion du temps.",
+    "score": 75,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.5679201124527568,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5321373276251851,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_22",
+        "score": 0.5183108091814288,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs Summary:\nSophie Bernard has been evaluated as having good interpersonal skills but needing improvement in time management. She scored 75/100, indicating room for growth in this area. The identified development needs include enhancing time management skills to increase efficiency and productivity.\n\n2. Proposed Personalized Training Plan:\nBased on the available training programs, the following personalized training plan is proposed for Sophie Bernard:\n- Training 1: \"Meilleures Pratiques en Gestion du Temps\" (doc_5)\n- Training 3: \"Formation en Gestion des Conflits\" (doc_22)\n\n3. How These Programs Address Specific Needs:\n- Training 1 on time management provides techniques like the Pomodoro method, task prioritization, and realistic daily planning to help employees organize their day effectively and achieve professional goals. This directly addresses Sophie's need to improve time management skills.\n- Training 3 on conflict management equips employees with practical tools to identify, analyze, and resolve conflicts within teams, promoting constructive communication and effective mediation. This training can enhance Sophie's interpersonal skills and teamwork abilities.\n\n4. Suggested Training Schedule:\nIt is recommended that Sophie Bernard first undergo the \"Meilleures Pratiques en Gestion du Temps\" training (doc_5) to address her time management improvement needs. Following this, she can participate in the \"Formation en Gestion des Conflits\" (doc_22) to further enhance her interpersonal skills. A schedule of one training session per week is suggested to allow for optimal absorption and application of the training content.\n\nBy following this personalized training plan, Sophie Bernard can effectively develop her time management skills and interpersonal competencies, ultimately contributing to her professional growth and success."
+  },
+  {
+    "employe": "Antoine Moreau",
+    "evaluation": "Fort potentiel en analyse, mais besoin d'un accompagnement en communication.",
+    "score": 68,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_19",
+        "score": 0.460235095251337,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      },
+      {
+        "id": "doc_42",
+        "score": 0.4317200648219937,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.4226835721990869,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\n   Antoine Moreau has shown great potential in analysis but requires assistance in communication. His evaluation highlights the need for improving his communication skills to complement his analytical abilities.\n\n2. Proposed Training Plan:\n   Based on Antoine's evaluation, the following personalized training plan is recommended:\n   - Training 1: Programme de formation en développement personnel (doc_19)\n   - Training 2: Programme de formation en communication interculturelle (doc_42)\n   - Training 3: Meilleures pratiques en communication (doc_4)\n\n3. Addressing Specific Needs:\n   - Training 1 focuses on building confidence, communication skills, and teamwork abilities, which directly address Antoine's need for communication improvement.\n   - Training 2 enhances intercultural communication skills, essential for interacting effectively in diverse environments.\n   - Training 3 provides best practices for communication, emphasizing clarity, active listening, and collaboration, aligning with Antoine's need for communication development.\n\n4. Training Schedule:\n   To optimize Antoine's learning experience and ensure effective skill development, the following training schedule is suggested:\n   - Week 1-2: Training 1 (18 hours)\n   - Week 3-4: Training 2 (Flexible scheduling based on availability)\n   - Week 5: Training 3 (Self-paced study with application in daily communication)\n\nBy following this personalized training plan and schedule, Antoine Moreau can enhance his communication skills, complementing his analytical strengths for overall professional development.\n\nThis tailored approach aims to support Antoine's growth and effectiveness in his role, ultimately contributing to his success within the organization."
+  },
+  {
+    "employe": "Claire Laurent",
+    "evaluation": "Bonne maîtrise des outils informatiques, renforcer la gestion du stress.",
+    "score": 72,
+    "keywords": [
+      "stress management"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_3",
+        "score": 0.5920398634525768,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-stress",
+        "content": "La formation en gestion du stress est destinée à aider les employés à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace. Le programme propose des techniques de relaxation, de méditation, et des outils pour mieux gérer les émotions dans un contexte professionnel.\n\nD'une durée de 20 heures et pour un coût d'environ 800 EUR, cette formation interactive combine des séances théoriques et des ateliers pratiques, permettant aux participants de bénéficier de conseils personnalisés et d'exercices de groupe pour une meilleure gestion de leur bien-être au travail."
+      },
+      {
+        "id": "doc_22",
+        "score": 0.5121590941611145,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      },
+      {
+        "id": "doc_47",
+        "score": 0.5007854693031033,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/finances-personnelles",
+        "content": "Cette formation en gestion des finances personnelles pour professionnels offre des outils pour optimiser la gestion de budget, l'investissement et la planification financière, adaptés aux contraintes du milieu professionnel."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nClaire Laurent's evaluation highlights a strong proficiency in computer tools but a need to strengthen stress management skills. With a score of 72/100, it is evident that improving stress management is crucial for enhancing overall performance and well-being.\n\n2. Personalized Training Plan:\nBased on the available training programs, we recommend enrolling Claire in the \"Gestion du Stress\" program (Training 1, doc_3). This program specifically targets stress management skills and provides techniques for identifying and coping with stress effectively.\n\n3. Addressing Specific Needs:\nThe \"Gestion du Stress\" program offers a comprehensive approach to stress management, including relaxation techniques, meditation practices, and emotional management tools. These strategies will help Claire better handle stress in a professional setting, ultimately improving her overall well-being and performance.\n\n4. Training Schedule:\nWe suggest scheduling the \"Gestion du Stress\" program for Claire as soon as possible, considering it is a medium priority training. The 20-hour interactive program can be spread out over a few weeks to allow for practical application of the techniques learned.\n\nOverall, by enrolling Claire in the \"Gestion du Stress\" program, we aim to enhance her stress management skills, leading to improved performance and well-being in the workplace. Please proceed with enrolling Claire in this training program at your earliest convenience.\n\nThank you for considering this personalized training plan for Claire Laurent's professional development."
+  },
+  {
+    "employe": "Nicolas Robert",
+    "evaluation": "Peut améliorer la qualité des livrables et l'organisation.",
+    "score": 66,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_9",
+        "score": 0.5384103025092755,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_14",
+        "score": 0.5297306328300387,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/amelioration-qualite",
+        "content": "Dans cette étude de cas, l'amélioration de la qualité des produits et services dans une entreprise manufacturière est analysée en profondeur. Le document détaille les stratégies adoptées, telles que la mise en place de systèmes de contrôle qualité rigoureux, la formation des équipes et la réalisation d'audits réguliers.\n\nLes résultats montrent une diminution significative des défauts, une augmentation de la satisfaction client et une meilleure conformité aux normes industrielles. Les enseignements tirés fournissent des pistes pour d'autres organisations cherchant à optimiser leurs processus qualité."
+      },
+      {
+        "id": "doc_20",
+        "score": 0.5007936276257108,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/restructuration-org",
+        "content": "Cette étude de cas analyse le processus de restructuration organisationnelle d'une entreprise confrontée à des défis de compétitivité. Le document décrit les changements apportés aux structures hiérarchiques, la réaffectation des ressources et la mise en œuvre de nouvelles stratégies pour améliorer l'efficacité interne.\n\nLes résultats montrent une meilleure agilité, une réduction des coûts et une amélioration de la communication interne. Les enseignements tirés offrent des pistes concrètes pour d'autres organisations en phase de transformation ou de réorganisation."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs Summary:\nNicolas Robert has been evaluated as needing improvement in the quality of deliverables and organization, with a score of 66/100. The evaluation suggests that there is room for enhancement in his work processes and output quality.\n\n2. Personalized Training Plan:\nBased on the available training programs and Nicolas's evaluation, the following personalized training plan is proposed:\n- Training 1: \"Optimisation des processus opérationnels\" (doc_9)\n- Training 2: \"Amélioration de la qualité des produits et services\" (doc_14)\n\n3. Addressing Specific Needs:\nThese training programs directly address Nicolas's development needs by focusing on optimizing operational processes and improving the quality of products and services. By participating in these programs, Nicolas can learn strategies for identifying bottlenecks, implementing quality control measures, and enhancing overall efficiency in his work.\n\n4. Training Schedule:\nIt is recommended that Nicolas participates in Training 1 first, followed by Training 2 to build upon the knowledge and skills acquired. A schedule of one training session per month is suggested, allowing Nicolas time to implement and practice the learnings between sessions.\n\nOverall, by engaging in these training programs, Nicolas can enhance his capabilities in process optimization and quality improvement, leading to increased productivity and overall effectiveness in his role."
+  },
+  {
+    "employe": "Isabelle Girard",
+    "evaluation": "Excellente gestion de projet et aptitude à manager une équipe.",
+    "score": 85,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_39",
+        "score": 0.49103995958701296,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_1",
+        "score": 0.4816171360245886,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-projet",
+        "content": "Ce programme de formation en gestion de projet est conçu pour fournir aux participants les outils et techniques nécessaires afin de planifier, exécuter et finaliser des projets tout en respectant les délais et les budgets impartis. Le cursus aborde notamment la planification stratégique, l'analyse des risques, la gestion des ressources et l'optimisation de la communication avec les parties prenantes.\n\nLa formation se déroule sur 40 heures réparties sur plusieurs sessions et coûte environ 1500 EUR. Elle inclut des ateliers interactifs, des études de cas pratiques et des retours d'expérience de professionnels du domaine, afin d'assurer une compréhension approfondie des enjeux de la gestion de projet."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.4712662376582221,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nBased on the evaluation of Isabelle Girard, it is evident that she excels in project management and team leadership. However, there is room for further improvement in her skills. Specifically, Isabelle could benefit from enhancing her knowledge and techniques in agile project management, as well as strengthening her abilities in team management and motivation.\n\n2. Personalized Training Plan:\nTo address Isabelle's development needs, I recommend enrolling her in the following training programs:\n- Training 1: Programme de Formation en Gestion de Projet Agile (doc_39)\n- Training 2: Programme de Formation en Gestion de Projet (doc_1)\n- Training 3: Meilleures Pratiques de Management d'Équipe (doc_6)\n\n3. Program Benefits:\n- Training 1 focuses on introducing Isabelle to agile project management principles and methods, enhancing her responsiveness and effectiveness in managing project teams in a constantly evolving environment.\n- Training 2 provides Isabelle with the tools and techniques necessary for effective project planning, execution, and completion while meeting deadlines and budget constraints.\n- Training 3 offers Isabelle strategies to strengthen team cohesion, improve delegation, and motivate team members through regular feedback and performance recognition.\n\n4. Training Schedule:\nI recommend a structured training schedule for Isabelle to maximize the benefits of the programs:\n- Week 1-2: Complete Training 1 (doc_39) in agile project management.\n- Week 3-4: Enroll in Training 2 (doc_1) for in-depth project management skills.\n- Week 5-6: Attend Training 3 (doc_6) to enhance team management practices.\n\nBy following this personalized training plan and schedule, Isabelle Girard will be able to further develop her project management and team leadership skills, ultimately contributing to her professional growth and success.\n\nPlease let me know if you require any further information or assistance in implementing this training plan for Isabelle Girard.\n\n[HR Expert's Name]\nProfessional Development Specialist"
+  },
+  {
+    "employe": "Julien Lefevre",
+    "evaluation": "Manque de vision stratégique et de suivi rigoureux.",
+    "score": 62,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_36",
+        "score": 0.4021686049250347,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/strategie-entreprise",
+        "content": "Ce programme de formation en stratégie d'entreprise aide les dirigeants à définir des orientations stratégiques claires, à analyser le marché et à mettre en place des plans d'action pour renforcer la compétitivité de leur organisation."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.35788122407378453,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.3576269395678442,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nJulien Lefevre's evaluation indicates a lack of strategic vision and rigorous monitoring, resulting in a score of 62/100. This highlights the need for professional development in strategic thinking, market analysis, and effective action planning.\n\n2. Personalized Training Plan:\nBased on the available training programs, I recommend the following personalized training plan for Julien Lefevre:\n- Training 1: Programme de Formation en Stratégie d'Entreprise (doc_36)\n- Training 2: Étude de Cas sur l'Optimisation des Processus (doc_9)\n\n3. Addressing Specific Needs:\nThe Programme de Formation en Stratégie d'Entreprise will help Julien define clear strategic directions, analyze the market, and implement action plans to enhance the competitiveness of the organization. The Étude de Cas sur l'Optimisation des Processus will focus on process optimization, automation, and continuous improvement to reduce delays and improve service quality.\n\n4. Training Schedule:\nI recommend that Julien Lefevre participates in the Programme de Formation en Stratégie d'Entreprise first to enhance his strategic thinking and planning skills. Subsequently, he can engage in the Étude de Cas sur l'Optimisation des Processus to improve his understanding of process optimization and operational efficiency.\n\nOverall, this personalized training plan will address Julien's specific development needs and help him enhance his strategic vision and monitoring capabilities. The training schedule can be tailored to accommodate his workload and ensure effective skill development."
+  },
+  {
+    "employe": "Audrey Morel",
+    "evaluation": "Bonne communication, mais à renforcer en gestion de conflit.",
+    "score": 70,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_22",
+        "score": 0.5940716638555201,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.5207375027591075,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.49371409479186423,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nAudrey Morel has been evaluated as having good communication skills but needing improvement in conflict management. With a score of 70/100, it is evident that enhancing her conflict resolution abilities is a priority to help her become a more effective team member.\n\n2. Personalized Training Plan:\nBased on the available training programs, we recommend the following personalized training plan for Audrey Morel:\n- Training 1: Programme de formation en gestion des conflits (doc_22)\n- Training 2: Meilleures pratiques en communication (doc_4)\n\n3. Addressing Specific Needs:\nThe training program in conflict management (Training 1) will provide Audrey with practical tools to identify, analyze, and resolve conflicts within her team. By enhancing her conflict resolution skills, she will be able to address conflicts more effectively and promote a culture of constructive communication and mediation.\n\nThe communication best practices training (Training 2) will help Audrey improve her communication skills both internally and externally within the company. By adopting methods to optimize message clarity, active listening, and fostering a culture of transparency and collaboration, Audrey will be better equipped to handle conflicts and communicate effectively with her team members.\n\n4. Training Schedule:\nTo effectively address Audrey's development needs, we recommend the following training schedule:\n- Week 1: Training 1 - Programme de formation en gestion des conflits\n- Week 2: Training 2 - Meilleures pratiques en communication\n\nBy completing both training programs consecutively, Audrey will have the opportunity to enhance her conflict management and communication skills in a focused and efficient manner.\n\nOverall, this personalized training plan will help Audrey Morel strengthen her conflict resolution abilities and improve her communication skills, ultimately contributing to her professional development and effectiveness within the team."
+  },
+  {
+    "employe": "Thomas Dupuis",
+    "evaluation": "Compétences techniques à parfaire et communication à développer.",
+    "score": 64,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_42",
+        "score": 0.5742232366449875,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.5037536265819046,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.4940770100567583,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\n   Thomas Dupuis has been evaluated as needing improvement in technical skills and communication. His overall score is 64/100, indicating room for growth in these areas. \n\n2. Personalized Training Plan:\n   Based on the available training programs, I recommend the following personalized training plan for Thomas:\n   - Training 1: Communication Interculturelle\n   - Training 2: Best Practices in Communication\n   - Training 3: Personal Development Program\n\n3. Addressing Specific Needs:\n   - Training 1: Communication Interculturelle focuses on developing effective communication skills in an international environment, which will help Thomas improve his communication abilities.\n   - Training 2: Best Practices in Communication offers practical strategies for enhancing internal and external communication, helping Thomas refine his communication techniques.\n   - Training 3: Personal Development Program covers topics like stress management, emotional intelligence, public speaking, and self-motivation, addressing Thomas' need for improved communication and teamwork skills.\n\n4. Training Schedule:\n   To maximize the benefits of the training programs, I suggest the following training schedule for Thomas:\n   - Training 1: Communication Interculturelle - 4 hours per week for 2 weeks\n   - Training 2: Best Practices in Communication - 2 hours per week for 4 weeks\n   - Training 3: Personal Development Program - 6 hours per week for 3 weeks\n   \n   This schedule allows Thomas to focus on one training program at a time while balancing his workload effectively.\n\nBy following this personalized training plan and schedule, Thomas Dupuis can effectively improve his technical skills and communication abilities, leading to overall professional development and growth."
+  },
+  {
+    "employe": "Camille Simon",
+    "evaluation": "Très bonne adaptabilité et réactivité, à encourager.",
+    "score": 78,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_44",
+        "score": 0.4510821924869096,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/transformation-agile",
+        "content": "Ce document présente les meilleures pratiques pour une transformation agile, en illustrant comment les entreprises peuvent adapter leurs structures et méthodes de travail pour répondre aux défis du marché actuel."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.4391833849553948,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_17",
+        "score": 0.41963572921700126,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/integration-tech",
+        "content": "Cette étude de cas explore l'intégration des nouvelles technologies dans une entreprise industrielle traditionnelle. Le document détaille le processus d'évaluation des besoins, la sélection des technologies innovantes et leur mise en œuvre, tout en abordant les défis rencontrés durant cette transition.\n\nLes résultats mettent en avant une amélioration notable de l'efficacité opérationnelle, une réduction des coûts et une meilleure compétitivité sur le marché. Des recommandations pratiques y sont proposées pour aider d'autres entreprises à réussir cette intégration."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs Summary:\nCamille Simon has been evaluated positively for her adaptability and reactivity, indicating a strong potential for growth. With a score of 78/100, her training priority is considered medium. To further enhance her skills and capabilities, it is essential to focus on professional development in areas that will support her in adapting to the fast-paced market challenges.\n\n2. Personalized Training Plan:\nBased on the available training programs, the following personalized training plan is proposed for Camille Simon:\n- Training 1: \"Transformation Agile Best Practices\" (doc_44)\n- Training 2: \"Agile Project Management Training Program\" (doc_39)\n- Training 3: \"Case Study on Technology Integration\" (doc_17)\n\n3. Addressing Specific Needs:\n- Training 1 focuses on providing Camille with insights into how companies can adapt their structures and work methods for agile transformation, enhancing her adaptability and reactivity skills.\n- Training 2 introduces principles and methods of agile project management to improve her efficiency in project delivery within a dynamic environment.\n- Training 3 explores the integration of new technologies into traditional industries, offering practical recommendations for successful transitions, which can enhance Camille's problem-solving abilities and strategic thinking.\n\n4. Training Schedule:\nTo ensure effective training implementation, it is recommended to schedule the training sessions as follows:\n- Week 1: Training 1 - \"Transformation Agile Best Practices\"\n- Week 3: Training 2 - \"Agile Project Management Training Program\"\n- Week 5: Training 3 - \"Case Study on Technology Integration\"\n\nBy following this structured training plan, Camille Simon can further develop her skills and competencies to meet the evolving demands of the market and contribute effectively to the organization's success.\n\nThis training plan is tailored to Camille's specific needs and is designed to maximize her professional growth and performance. It is crucial to monitor her progress throughout the training process and provide ongoing support to ensure successful skill development."
+  },
+  {
+    "employe": "Mathieu Renault",
+    "evaluation": "Doit améliorer la planification et l'organisation de son travail.",
+    "score": 63,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.6008399992122079,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.48250236014421727,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_20",
+        "score": 0.4767486003780592,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/restructuration-org",
+        "content": "Cette étude de cas analyse le processus de restructuration organisationnelle d'une entreprise confrontée à des défis de compétitivité. Le document décrit les changements apportés aux structures hiérarchiques, la réaffectation des ressources et la mise en œuvre de nouvelles stratégies pour améliorer l'efficacité interne.\n\nLes résultats montrent une meilleure agilité, une réduction des coûts et une amélioration de la communication interne. Les enseignements tirés offrent des pistes concrètes pour d'autres organisations en phase de transformation ou de réorganisation."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\n   Mathieu Renault's evaluation highlights the need for improvement in planning and organizing his work. With a score of 63/100, it is evident that there is room for growth in these areas to enhance his productivity and efficiency.\n\n2. Personalized Training Plan:\n   Based on the available training programs, we recommend enrolling Mathieu in the following:\n   - Training 1: Gestion du temps - This program focuses on time management best practices to help employees better organize their day, reduce interruptions, and achieve their professional goals more effectively.\n   - Training 2: Management d'équipe - This program offers guidance on team management strategies to enhance cohesion, delegation, and motivation within the team.\n   \n3. How Programs Address Employee's Needs:\n   Both training programs directly address Mathieu's specific needs by providing practical tools and strategies to improve his planning, organization, and team management skills. By implementing the techniques and recommendations from these programs, Mathieu can enhance his overall performance and meet his objectives more efficiently.\n\n4. Training Schedule:\n   To maximize the effectiveness of the training, we suggest scheduling Training 1 on time management first to address Mathieu's immediate need for better organization. Following this, Training 2 on team management can be scheduled to further develop his skills in leading and motivating his team. Each training session can be spaced out to allow for implementation and practice of the learned concepts.\n\nBy following this personalized training plan, Mathieu Renault can enhance his planning, organization, and team management skills, ultimately leading to improved performance and productivity in his role."
+  },
+  {
+    "employe": "Emma Gauthier",
+    "evaluation": "Solide dans ses connaissances techniques, manque de flexibilité.",
+    "score": 68,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_13",
+        "score": 0.3600095986200066,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/competences-techniques",
+        "content": "Ce programme de formation en compétences techniques est destiné à renforcer les savoir-faire pratiques des employés dans le domaine des technologies de l'information. Le programme couvre des sujets tels que la programmation, la cybersécurité, l'analyse de données et l'utilisation des outils collaboratifs modernes.\n\nLa formation s'étale sur 30 heures et est proposée à un coût d'environ 1300 EUR. Elle combine cours théoriques, travaux pratiques et projets collaboratifs afin de garantir une compréhension approfondie et une application concrète des compétences acquises."
+      },
+      {
+        "id": "doc_40",
+        "score": 0.3286672867932019,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/cybersecurite-avance",
+        "content": "Cette formation en cybersécurité avancée propose d'approfondir les techniques de protection des systèmes informatiques, incluant la détection des intrusions, la gestion des incidents et les stratégies de défense proactives."
+      },
+      {
+        "id": "doc_32",
+        "score": 0.32082536156023445,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/chaine-approvisionnement",
+        "content": "Cette formation en gestion de la chaîne d'approvisionnement permet d'optimiser les flux de production et de distribution en intégrant des solutions logistiques innovantes et des outils d'analyse prédictive."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nBased on Emma Gauthier's evaluation, it is evident that she possesses solid technical knowledge but lacks flexibility. Her overall score of 68/100 indicates room for improvement in certain areas.\n\n2. Personalized Training Plan:\nTo address Emma's development needs, I recommend a personalized training plan that includes the following programs:\n- Training 1: Programme de formation en compétences techniques\n- Training 2: Formation en cybersécurité avancée\n- Training 3: Formation en gestion de la chaîne d'approvisionnement\n\n3. How Programs Address Specific Needs:\nTraining 1 will help reinforce Emma's technical skills and broaden her knowledge in areas such as programming and data analysis. This will enhance her adaptability and flexibility in handling various tasks. Training 2 will deepen her understanding of cybersecurity, which is crucial in today's digital landscape. Training 3 will equip her with supply chain management skills, enabling her to optimize production and distribution processes efficiently.\n\n4. Training Schedule:\nI recommend scheduling Training 1 first, followed by Training 2 and Training 3 in succession. Each program should be completed within a reasonable timeframe to ensure Emma can apply the newly acquired skills effectively in her role.\n\nBy following this personalized training plan, Emma Gauthier will be able to enhance her technical expertise, improve her flexibility, and ultimately contribute more effectively to the organization."
+  },
+  {
+    "employe": "Alexandre Faure",
+    "evaluation": "Excellente capacité à travailler en équipe, pourrait mieux gérer le stress.",
+    "score": 76,
+    "keywords": [
+      "stress management"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_3",
+        "score": 0.5287240790451991,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-stress",
+        "content": "La formation en gestion du stress est destinée à aider les employés à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace. Le programme propose des techniques de relaxation, de méditation, et des outils pour mieux gérer les émotions dans un contexte professionnel.\n\nD'une durée de 20 heures et pour un coût d'environ 800 EUR, cette formation interactive combine des séances théoriques et des ateliers pratiques, permettant aux participants de bénéficier de conseils personnalisés et d'exercices de groupe pour une meilleure gestion de leur bien-être au travail."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5042761364543646,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_22",
+        "score": 0.4857638077491345,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nBased on the evaluation of Alexandre Faure, it has been identified that he has excellent team working capabilities but could improve his stress management skills. With a score of 76/100, his training priority is medium.\n\n2. Proposed Training Plan:\nTo address Alexandre's specific development needs, I recommend the following personalized training plan:\n- Training 1: Gestion du Stress (doc_3)\n- Training 3: Gestion des Conflits (doc_22)\n\n3. How These Programs Address Specific Needs:\n- Gestion du Stress: This program will help Alexandre identify stress sources and adopt effective strategies to manage them. It includes relaxation techniques, meditation, and emotional management tools to enhance his stress management skills.\n- Gestion des Conflits: This training will provide Alexandre with practical tools to identify, analyze, and resolve conflicts within teams, promoting constructive communication and effective mediation skills.\n\n4. Training Schedule:\nI suggest Alexandre participate in the Gestion du Stress (doc_3) training program first to address his stress management needs. Following the completion of this program, he can then enroll in the Gestion des Conflits (doc_22) training to enhance his conflict resolution skills. A schedule of one training session per month would allow Alexandre to gradually apply the skills learned in each program to his daily work responsibilities.\n\nThis personalized training plan will equip Alexandre with the necessary skills to manage stress effectively and resolve conflicts within his team, ultimately enhancing his overall professional development."
+  },
+  {
+    "employe": "Chloé Mercier",
+    "evaluation": "Peut améliorer la gestion de priorités et la communication interne.",
+    "score": 69,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_4",
+        "score": 0.581170018789523,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5268819166133478,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_20",
+        "score": 0.5235127699679099,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/restructuration-org",
+        "content": "Cette étude de cas analyse le processus de restructuration organisationnelle d'une entreprise confrontée à des défis de compétitivité. Le document décrit les changements apportés aux structures hiérarchiques, la réaffectation des ressources et la mise en œuvre de nouvelles stratégies pour améliorer l'efficacité interne.\n\nLes résultats montrent une meilleure agilité, une réduction des coûts et une amélioration de la communication interne. Les enseignements tirés offrent des pistes concrètes pour d'autres organisations en phase de transformation ou de réorganisation."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nChloé Mercier's evaluation highlights areas for improvement in priority management and internal communication. With a score of 69/100, there is room for growth in these crucial skills.\n\n2. Personalized Training Plan:\nBased on the available training programs, the following tailored plan is proposed:\n- Training 1: \"Best Practices in Communication\" (doc_4)\n- Training 2: \"Team Management Strategies\" (doc_6)\n\n3. Addressing Specific Needs:\n- Training 1 focuses on enhancing communication both internally and externally, improving message clarity, active listening, and fostering a culture of transparency and collaboration. These practices directly target Chloé's communication skills.\n- Training 2 provides insights into team management, emphasizing cohesion, delegation, and motivation techniques. By implementing regular feedback and recognition systems, Chloé can enhance her leadership and teamwork abilities.\n\n4. Training Schedule:\nTo effectively address Chloé's development needs, it is recommended to schedule Training 1 and Training 2 over a period of 2 months. This will allow her to absorb the content, practice new strategies, and integrate them into her daily work routine.\n\nBy following this personalized training plan, Chloé Mercier can enhance her priority management and internal communication skills, leading to improved performance and professional growth."
+  },
+  {
+    "employe": "Maxime Dupont",
+    "evaluation": "Bon relationnel, mais doit développer ses compétences en leadership.",
+    "score": 71,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.4764723944336623,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_23",
+        "score": 0.4559983492839098,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/service-client",
+        "content": "Le programme de formation en service client est conçu pour développer des compétences relationnelles et techniques afin d'améliorer la satisfaction et la fidélisation des clients, à travers des simulations et des retours d'expérience."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.43467659306101053,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nMaxime Dupont has been evaluated as having good interpersonal skills but needs to develop his leadership abilities. His current score is 71/100, indicating a medium training priority.\n\n2. Proposed Training Plan:\nBased on the available training programs, the following personalized training plan is recommended for Maxime Dupont:\n- Enroll in the leadership transformational program (Training 1)\n- Participate in the service client training program (Training 2)\n\n3. Addressing Specific Needs:\nThe leadership transformational program focuses on developing leadership skills such as vision, empathy, and adaptability to market changes, directly addressing Maxime's need to enhance his leadership capabilities. The service client training program will also help improve his interpersonal skills, which were noted as a strength in his evaluation.\n\n4. Training Schedule:\nGiven the relevance scores of the training programs and Maxime's medium training priority, it is recommended that he first complete the leadership transformational program (Training 1) followed by the service client training program (Training 2). The leadership program will provide a solid foundation for his leadership development, while the service client program will further enhance his interpersonal skills.\n\nOverall, this personalized training plan will help Maxime Dupont address his specific development needs, improve his leadership abilities, and enhance his overall effectiveness in the workplace."
+  },
+  {
+    "employe": "Laura Caron",
+    "evaluation": "Besoin de formation en gestion du temps et en organisation.",
+    "score": 66,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_3",
+        "score": 0.548044762460665,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-stress",
+        "content": "La formation en gestion du stress est destinée à aider les employés à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace. Le programme propose des techniques de relaxation, de méditation, et des outils pour mieux gérer les émotions dans un contexte professionnel.\n\nD'une durée de 20 heures et pour un coût d'environ 800 EUR, cette formation interactive combine des séances théoriques et des ateliers pratiques, permettant aux participants de bénéficier de conseils personnalisés et d'exercices de groupe pour une meilleure gestion de leur bien-être au travail."
+      },
+      {
+        "id": "doc_28",
+        "score": 0.5479917834654544,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-rh",
+        "content": "Le programme de formation en gestion des ressources humaines couvre le recrutement, la formation, la gestion des talents et la motivation des équipes, avec des études de cas et des ateliers interactifs."
+      },
+      {
+        "id": "doc_35",
+        "score": 0.5414254473844288,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-operations",
+        "content": "Le programme de formation en gestion des opérations offre une approche complète pour coordonner et optimiser les activités quotidiennes de production, avec des outils d'analyse et des retours d'expérience pratiques."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nLaura Caron's evaluation indicates a need for training in time management and organization skills. With a score of 66/100, there is room for improvement in these areas to enhance her overall performance and productivity.\n\n2. Proposed Training Plan:\nBased on the available training programs, I recommend Laura to participate in the following two programs:\n- Training 1: Programme de formation en gestion du stress\n- Training 2: Programme de formation en gestion des ressources humaines\n\n3. How These Programs Address Specific Needs:\nThe training in stress management will help Laura identify and cope with sources of stress, improving her ability to manage emotions and enhance well-being in a professional setting. Additionally, the HR management program will equip her with skills in recruitment, talent management, and team motivation, addressing her need for organizational skills and talent development.\n\n4. Training Schedule:\nI suggest Laura enroll in the stress management program first to address immediate needs, followed by the HR management program to enhance her organizational and talent management skills. A schedule of two sessions per week for each program, with a duration of 10 weeks for each, would allow for effective learning and application of the skills acquired.\n\nBy following this personalized training plan, Laura Caron can develop the necessary time management, organizational, and HR skills to improve her performance and contribute more effectively to the organization."
+  },
+  {
+    "employe": "Vincent Lemaire",
+    "evaluation": "Performances solides, mais manque d'initiative sur des projets innovants.",
+    "score": 74,
+    "keywords": [
+      "leadership",
+      "autonomy"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_54",
+        "score": 0.40154639832176,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projets-innovants",
+        "content": "Le programme de formation en gestion de projets innovants vise à encourager la créativité et l'expérimentation, en intégrant des méthodologies de prototypage rapide et des techniques de brainstorming collaboratif."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.3928239618746785,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_58",
+        "score": 0.38167519893801,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nVincent Lemaire has shown solid performance but lacks initiative on innovative projects. His evaluation score is 74/100, indicating room for improvement in taking on new challenges and driving innovation within his role.\n\n2. Personalized Training Plan:\nBased on Vincent's evaluation and training priority of medium, I recommend enrolling him in the following training programs:\n- Training 1: Programme de Formation en Gestion de Projets Innovants (doc_54)\n- Training 2: Meilleures Pratiques pour le Management d'Équipe (doc_6)\n\n3. Addressing Specific Needs:\nThe Programme de Formation en Gestion de Projets Innovants will help Vincent enhance his creativity and experimentation skills, while also introducing methodologies for rapid prototyping and collaborative brainstorming. This program directly addresses his lack of initiative on innovative projects.\n\nThe Meilleures Pratiques pour le Management d'Équipe training will provide Vincent with strategies to strengthen team cohesion, improve delegation, and motivate his team members. By implementing regular feedback and recognition systems, Vincent can enhance his leadership skills and drive innovation within his team.\n\n4. Training Schedule:\nI suggest Vincent attend the Programme de Formation en Gestion de Projets Innovants first to boost his creativity and innovation mindset. Following this, he can enroll in the Meilleures Pratiques pour le Management d'Équipe training to enhance his leadership skills. A schedule of completing both programs within the next 3 months would be ideal to see noticeable improvements in his performance.\n\nBy engaging in these personalized training programs, Vincent Lemaire can develop the necessary skills to take on innovative projects with confidence and drive positive change within his team."
+  },
+  {
+    "employe": "Marion Legrand",
+    "evaluation": "Très bonne capacité d'analyse, à renforcer en communication.",
+    "score": 77,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_42",
+        "score": 0.47277016411620465,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.4659907502053137,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_20",
+        "score": 0.4209064103100431,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/restructuration-org",
+        "content": "Cette étude de cas analyse le processus de restructuration organisationnelle d'une entreprise confrontée à des défis de compétitivité. Le document décrit les changements apportés aux structures hiérarchiques, la réaffectation des ressources et la mise en œuvre de nouvelles stratégies pour améliorer l'efficacité interne.\n\nLes résultats montrent une meilleure agilité, une réduction des coûts et une amélioration de la communication interne. Les enseignements tirés offrent des pistes concrètes pour d'autres organisations en phase de transformation ou de réorganisation."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nMarion Legrand has been evaluated as having a very good analytical ability but needing improvement in communication. With a score of 77/100, her training priority is considered medium.\n\n2. Proposed Training Plan:\nBased on Marion's evaluation and the available training programs, we recommend the following personalized training plan:\n- Training 1: Communication Interculturelle (doc_42)\n- Training 2: Best Communication Practices (doc_4)\n\n3. Addressing Specific Needs:\n- Training 1: Communication Interculturelle will help Marion develop skills to effectively interact in an international environment by raising awareness of cultural differences and methods of adaptation.\n- Training 2: Best Communication Practices will provide Marion with a set of practices to enhance both internal and external communication within the company. It focuses on optimizing message clarity, active listening, and promoting a culture of transparency and collaboration.\n\n4. Training Schedule:\nWe suggest a schedule where Marion can attend both training programs consecutively to maximize the benefits of each. The training sessions should be spread out over a period of 2-3 weeks to allow for proper assimilation of the content.\n\nBy participating in these training programs, Marion will be able to enhance her communication skills and bridge the gap identified in her evaluation. This personalized plan will help her not only improve her current performance but also contribute to her professional growth and development.\n\nPlease feel free to reach out if you have any questions or need further assistance in implementing this training plan.\n\nThank you.\n\n[HR Specialist Name]\nProfessional Development Expert"
+  },
+  {
+    "employe": "Florian Perrot",
+    "evaluation": "Doit améliorer sa réactivité face aux imprévus.",
+    "score": 63,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_41",
+        "score": 0.49637238622133895,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-incidents",
+        "content": "Ce document rassemble les meilleures pratiques pour la gestion des incidents, proposant des protocoles clairs et des outils de communication pour répondre efficacement aux situations imprévues."
+      },
+      {
+        "id": "doc_29",
+        "score": 0.4717453670663573,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-crise",
+        "content": "Ce document présente les meilleures pratiques en gestion de crise, détaillant les étapes de préparation, de réaction et de rétablissement, afin d'assurer la continuité des activités en cas d'incident majeur."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.4545170379688392,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs Summary:\nFlorian Perrot's evaluation indicates a need to improve reactivity in the face of unforeseen events, with a current score of 63/100. This highlights a gap in his ability to effectively handle unexpected situations.\n\n2. Proposed Training Plan:\nBased on the available training programs, I recommend a personalized training plan for Florian Perrot as follows:\n- Training 1 (doc_41) on incident management best practices\n- Training 2 (doc_29) on crisis management best practices\n- Training 3 (doc_39) on agile project management\n\n3. Program Relevance to Employee's Needs:\n- Training 1 and 2 will provide Florian with clear protocols and communication tools to respond effectively to unexpected incidents and crises. This will help him enhance his reactivity and decision-making skills in such situations.\n- Training 3 will introduce Florian to agile project management principles, enabling him to work more efficiently in dynamic environments and improve his overall responsiveness to project requirements.\n\n4. Training Schedule Suggestion:\nTo optimize Florian's learning and development, I suggest the following training schedule:\n- Week 1: Training 1 (doc_41) on incident management best practices\n- Week 2: Training 2 (doc_29) on crisis management best practices\n- Week 3: Training 3 (doc_39) on agile project management\n\nThis schedule allows Florian to focus on one training program per week, ensuring he can fully absorb and apply the knowledge gained before moving on to the next program.\n\nOverall, this personalized training plan will help Florian Perrot address his development needs and enhance his reactivity in handling unexpected situations effectively. By completing these training programs, Florian will be better equipped to navigate challenges and contribute more effectively to the organization."
+  },
+  {
+    "employe": "Elise Marchand",
+    "evaluation": "Bonne capacité de synthèse, à améliorer en gestion des priorités.",
+    "score": 70,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.4787533770239485,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.4608495910391506,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_35",
+        "score": 0.4302374797284115,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-operations",
+        "content": "Le programme de formation en gestion des opérations offre une approche complète pour coordonner et optimiser les activités quotidiennes de production, avec des outils d'analyse et des retours d'expérience pratiques."
+      }
+    ],
+    "recommendation": "Recommendation Report\n\n1. Development Needs:\nElise Marchand has been evaluated as having a good ability to synthesize information but needs improvement in prioritizing tasks. Her overall score is 70/100, indicating room for growth in her professional development.\n\n2. Personalized Training Plan:\nBased on Elise's evaluation and training priority level being medium, I recommend the following training plan:\n- Training 1: \"Meilleures Pratiques en Gestion du Temps\" (doc_5)\n- Training 2: \"Étude de Cas sur l'Optimisation des Processus\" (doc_9)\n\n3. Addressing Specific Needs:\n- Training 1 focuses on time management best practices, including techniques like the Pomodoro method and task prioritization. This will help Elise improve her prioritization skills and better organize her day to enhance productivity.\n- Training 2 delves into process optimization, identifying bottlenecks, and implementing continuous improvement strategies. Elise can learn how to streamline processes, reduce delays, and enhance service quality, addressing her need for better task management and efficiency.\n\n4. Training Schedule:\nI recommend Elise to undertake Training 1 first, followed by Training 2 to build on the foundational skills acquired. A schedule of two sessions per week for each training program, with a total duration of 4 weeks, would be appropriate to allow for practical application and reinforcement of learnings.\n\nBy following this personalized training plan, Elise can enhance her prioritization skills, improve task management, and increase her overall efficiency in the workplace. This targeted approach will contribute to her professional development and career growth."
+  },
+  {
+    "employe": "Guillaume Dupuis",
+    "evaluation": "Besoin d'un accompagnement en management et en prise de décision.",
+    "score": 65,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_2",
+        "score": 0.6051425916200169,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_58",
+        "score": 0.5541189411001907,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_36",
+        "score": 0.5096622034551892,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/strategie-entreprise",
+        "content": "Ce programme de formation en stratégie d'entreprise aide les dirigeants à définir des orientations stratégiques claires, à analyser le marché et à mettre en place des plans d'action pour renforcer la compétitivité de leur organisation."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nGuillaume Dupuis requires support in management and decision-making skills as indicated by his evaluation score of 65/100.\n\n2. Personalized Training Plan:\nBased on the available training programs, I recommend enrolling Guillaume in the following programs:\n- Training 1: Leadership Development Program (doc_2)\n- Training 3: Business Strategy Program (doc_36)\n\n3. Addressing Specific Needs:\nThe Leadership Development Program (doc_2) will enhance Guillaume's managerial skills, decision-making abilities, team management, conflict resolution, and strategic decision-making in a competitive environment. The Business Strategy Program (doc_36) will further empower Guillaume to define clear strategic directions, analyze the market, and implement action plans to enhance his organization's competitiveness.\n\n4. Training Schedule:\nI suggest scheduling the Leadership Development Program first, followed by the Business Strategy Program. Each program will require a total of 32 hours, so it would be ideal to allocate time for both programs within the next quarter to ensure effective skill development and application.\n\nBy participating in these training programs, Guillaume will receive the necessary guidance and support to enhance his management and decision-making skills, ultimately contributing to his professional growth and success within the organization.\n\nPlease feel free to reach out for further assistance or clarification regarding Guillaume's professional development plan."
+  },
+  {
+    "employe": "Amélie Roussel",
+    "evaluation": "Excellente maîtrise des outils de travail collaboratif, à encourager.",
+    "score": 82,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_37",
+        "score": 0.5503769524511644,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-innovation",
+        "content": "Ce document présente un ensemble de meilleures pratiques pour stimuler l'innovation au sein des organisations, en favorisant la créativité, l'expérimentation et la collaboration interdisciplinaire."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.5456944346631865,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5295362525865231,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ],
+    "recommendation": "Recommendation Report for Amélie Roussel's Professional Development\n\n1. Development Needs:\nAmélie Roussel has been evaluated as having excellent mastery of collaborative work tools, which should be encouraged. However, there is room for improvement in her overall score of 82/100. The training priority for Amélie is considered medium, indicating that there are opportunities for growth and development in her current role.\n\n2. Personalized Training Plan:\nBased on the available training programs, we recommend the following personalized training plan for Amélie:\n- Training 1: \"Meilleures Pratiques - Gestion de l'Innovation\"\n- Training 2: \"Meilleures Pratiques - Communication\"\n- Training 3: \"Meilleures Pratiques - Management d'Équipe\"\n\n3. Addressing Specific Needs:\nThese training programs address Amélie's specific needs by focusing on key areas such as innovation, communication, and team management. The \"Gestion de l'Innovation\" training will help her further enhance her collaborative skills by fostering creativity, experimentation, and interdisciplinary collaboration. The \"Communication\" training will improve her communication skills both internally and externally, promoting clarity, active listening, and a culture of transparency. Lastly, the \"Management d'Équipe\" training will provide her with strategies to strengthen team cohesion, improve delegation, and motivate team members through regular feedback and performance recognition.\n\n4. Training Schedule:\nTo optimize the effectiveness of the training plan, we suggest the following schedule:\n- Week 1: Training 1 - \"Gestion de l'Innovation\"\n- Week 3: Training 2 - \"Communication\"\n- Week 5: Training 3 - \"Management d'Équipe\"\n\nThis schedule allows for a spaced-out approach to learning, giving Amélie time to apply the knowledge and skills gained from each training session before moving on to the next. Additionally, it ensures that she can continue to focus on her daily responsibilities while benefiting from professional development opportunities.\n\nBy following this personalized training plan and schedule, Amélie Roussel will be able to further enhance her skills and capabilities, ultimately contributing to her professional growth and success within the organization."
+  },
+  {
+    "employe": "Benoît Lefebvre",
+    "evaluation": "Peut améliorer son autonomie et son sens de l'initiative.",
+    "score": 67,
+    "keywords": [
+      "leadership",
+      "autonomy"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.49582228685588575,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.4373539175212887,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.43405902614552266,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nBenoît Lefebvre's evaluation highlights areas for improvement in autonomy and initiative, indicating a potential for growth in these areas. With a score of 67/100, there is room for enhancement in his professional development.\n\n2. Personalized Training Plan:\nBased on the available training programs, I propose the following personalized training plan for Benoît Lefebvre:\n- Training 1: Leadership Transformational Program\n- Training 3: Personal Development Program\n\n3. Addressing Specific Needs:\n- The Leadership Transformational Program (Training 1) will help Benoît enhance his leadership skills, specifically focusing on inspiring and motivating teams, which aligns with improving his autonomy and initiative.\n- The Personal Development Program (Training 3) will strengthen Benoît's confidence, communication, and teamwork abilities, addressing his need for personal growth and self-improvement.\n\n4. Training Schedule:\nTo effectively integrate these training programs into Benoît's professional development, I suggest the following schedule:\n- Begin with the Leadership Transformational Program for 32 hours, followed by a break to reflect on learning outcomes.\n- Subsequently, enroll in the Personal Development Program for 18 hours to further enhance interpersonal skills and self-confidence.\n\nBy following this personalized training plan, Benoît Lefebvre can actively work towards improving his autonomy, initiative, and overall professional development. These programs will provide him with the necessary tools and skills to excel in his role."
+  },
+  {
+    "employe": "Juliette Fournier",
+    "evaluation": "Compétences techniques solides, à renforcer en communication.",
+    "score": 73,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_42",
+        "score": 0.5382654436864485,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_4",
+        "score": 0.49850417140521774,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.4645137894193606,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      }
+    ],
+    "recommendation": "Recommendation Report for Juliette Fournier's Professional Development\n\n1. Development Needs:\nJuliette Fournier has strong technical skills but requires improvement in communication. Her evaluation score of 73/100 indicates a medium training priority to enhance her communication abilities.\n\n2. Personalized Training Plan:\nBased on the available training programs, the following personalized plan is proposed for Juliette:\n- Training 1: Communication Inter-culturelle (Relevance score: 0.54)\n- Training 2: Meilleures Pratiques en Communication (Relevance score: 0.50)\n\n3. How Programs Address Specific Needs:\nTraining 1 focuses on developing effective communication skills in an international environment by raising awareness of cultural differences and adaptation methods. This will help Juliette improve her communication across diverse settings.\nTraining 2 offers best practices for internal and external communication, emphasizing clarity, active listening, transparency, and collaboration. Implementing these methods will enhance Juliette's communication effectiveness within the organization.\n\n4. Training Schedule:\nIt is recommended that Juliette attends Training 1 on Communication Inter-culturelle first to strengthen her intercultural communication skills. Following this, she can participate in Training 2 on Meilleures Pratiques en Communication to further refine her overall communication abilities.\n\nOverall, this personalized training plan will address Juliette's specific communication needs and help her enhance her professional development effectively. The suggested schedule ensures a structured approach to skill enhancement."
+  },
+  {
+    "employe": "Sébastien Robert",
+    "evaluation": "Manque de rigueur dans l'organisation du travail.",
+    "score": 60,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_9",
+        "score": 0.42811846243300955,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_20",
+        "score": 0.42423366278063873,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/restructuration-org",
+        "content": "Cette étude de cas analyse le processus de restructuration organisationnelle d'une entreprise confrontée à des défis de compétitivité. Le document décrit les changements apportés aux structures hiérarchiques, la réaffectation des ressources et la mise en œuvre de nouvelles stratégies pour améliorer l'efficacité interne.\n\nLes résultats montrent une meilleure agilité, une réduction des coûts et une amélioration de la communication interne. Les enseignements tirés offrent des pistes concrètes pour d'autres organisations en phase de transformation ou de réorganisation."
+      },
+      {
+        "id": "doc_5",
+        "score": 0.41969045386417336,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs Summary:\nSébastien Robert has been evaluated as lacking rigor in work organization, scoring 60/100. This indicates a need for improvement in time management, process optimization, and overall efficiency in the workplace.\n\n2. Personalized Training Plan:\nBased on the available training programs, I propose the following personalized training plan for Sébastien Robert:\n- Training 1: étude de cas on process optimization\n- Training 3: meilleures pratiques on time management\n\n3. Program Relevance:\nTraining 1 on process optimization will help Sébastien identify bottlenecks in his work processes, implement analytical tools, and engage in systematic improvement to increase productivity and improve service quality. Training 3 on time management will provide practical techniques for organizing his day, prioritizing tasks, and achieving professional goals more effectively.\n\n4. Training Schedule:\nTo maximize the impact of the training programs, I recommend the following schedule for Sébastien:\n- Week 1: Complete Training 1 on process optimization\n- Week 2: Implement learnings from Training 1 in daily work tasks\n- Week 3: Complete Training 3 on time management\n- Week 4: Develop a personalized time management plan incorporating techniques from Training 3\n\nThis personalized training plan will address Sébastien's specific development needs and help him improve his work organization skills effectively. It is essential to monitor his progress and provide ongoing support to ensure successful implementation of the learnings."
+  },
+  {
+    "employe": "Céline Rolland",
+    "evaluation": "Bon sens de l'analyse, mais doit travailler sur la gestion du stress.",
+    "score": 71,
+    "keywords": [
+      "stress management"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_3",
+        "score": 0.5052362644023024,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-stress",
+        "content": "La formation en gestion du stress est destinée à aider les employés à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace. Le programme propose des techniques de relaxation, de méditation, et des outils pour mieux gérer les émotions dans un contexte professionnel.\n\nD'une durée de 20 heures et pour un coût d'environ 800 EUR, cette formation interactive combine des séances théoriques et des ateliers pratiques, permettant aux participants de bénéficier de conseils personnalisés et d'exercices de groupe pour une meilleure gestion de leur bien-être au travail."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.45432225531545456,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.4458614587731262,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ],
+    "recommendation": "Recommendation Report for Céline Rolland's Professional Development\n\n1. Development Needs:\nCéline Rolland has been evaluated as having a good sense of analysis but needs improvement in stress management. Her overall score is 71/100, indicating room for growth in this area.\n\n2. Proposed Training Plan:\nBased on Céline's evaluation and training priority level, I recommend the following personalized training plan:\n- Training 1: Gestion du Stress\n- Training 3: Meilleures Pratiques en Management d'Équipe\n\n3. How the Programs Address Specific Needs:\n- Gestion du Stress (Training 1): This program will help Céline identify sources of stress and learn effective coping strategies. Techniques such as relaxation, meditation, and emotion management will be taught to improve her stress management skills.\n- Meilleures Pratiques en Management d'Équipe (Training 3): This program will provide Céline with strategies to strengthen team cohesion, improve delegation, and motivate team members. Regular feedback and recognition systems will also be emphasized, improving her overall team management skills.\n\n4. Training Schedule:\nTo ensure effective training implementation, I suggest the following schedule:\n- Week 1-2: Gestion du Stress (Training 1) - 10 hours\n- Week 3-4: Meilleures Pratiques en Management d'Équipe (Training 3) - 10 hours\n\nBy following this training plan, Céline Rolland will be able to enhance her stress management skills and team management abilities, leading to improved performance and well-being in the workplace.\n\nThis training plan aligns with Céline's development needs and provides a structured approach to address her areas of improvement effectively."
+  },
+  {
+    "employe": "Eric Petit",
+    "evaluation": "Bonne capacité à résoudre des problèmes, à améliorer en leadership.",
+    "score": 75,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.5024719114094507,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.47567497828704347,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_22",
+        "score": 0.4705379311071448,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nBased on the evaluation of Eric Petit, it is evident that he has a good problem-solving ability but needs improvement in leadership skills. His overall score of 75 out of 100 indicates a solid foundation with room for growth.\n\n2. Personalized Training Plan:\nConsidering Eric's training priority as medium, I recommend enrolling him in the following training programs:\n- Training 1: Leadership Transformation Program\n- Training 2: Leadership Development Program\n\n3. Addressing Employee's Specific Needs:\n- The Leadership Transformation Program focuses on inspiring and motivating teams, key aspects of leadership where Eric needs improvement. This program emphasizes vision, empathy, and adapting to market changes, which align with Eric's development areas.\n- The Leadership Development Program covers essential managerial and decision-making skills, including team management, conflict resolution, employee motivation, and strategic decision-making. These areas directly address Eric's need to enhance his leadership abilities.\n\n4. Training Schedule:\nTo maximize the benefits of both programs, I suggest the following training schedule for Eric:\n- Attend the Leadership Transformation Program first to build a strong foundation in inspirational leadership.\n- Follow up with the Leadership Development Program to further enhance his managerial and decision-making skills.\n- Allocate dedicated time for individual coaching sessions, practical exercises, and collaborative workshops to ensure effective application of the acquired skills.\n\nBy following this personalized training plan and schedule, Eric will be able to address his development needs effectively and enhance his leadership capabilities in a structured and comprehensive manner.\n\nPlease feel free to reach out if you require any further assistance in implementing this training plan for Eric Petit.\n\nBest regards,\n[Your Name]\nHR Expert"
+  },
+  {
+    "employe": "Valérie Giraud",
+    "evaluation": "Excellente communication, mais besoin de renforcer les compétences techniques.",
+    "score": 68,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_4",
+        "score": 0.5423486985605472,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_42",
+        "score": 0.49961288283206734,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/communication-interculturelle",
+        "content": "Cette formation en communication interculturelle permet de développer des compétences pour interagir efficacement dans un environnement international, en sensibilisant aux différences culturelles et aux méthodes d'adaptation."
+      },
+      {
+        "id": "doc_13",
+        "score": 0.46803449793508356,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/competences-techniques",
+        "content": "Ce programme de formation en compétences techniques est destiné à renforcer les savoir-faire pratiques des employés dans le domaine des technologies de l'information. Le programme couvre des sujets tels que la programmation, la cybersécurité, l'analyse de données et l'utilisation des outils collaboratifs modernes.\n\nLa formation s'étale sur 30 heures et est proposée à un coût d'environ 1300 EUR. Elle combine cours théoriques, travaux pratiques et projets collaboratifs afin de garantir une compréhension approfondie et une application concrète des compétences acquises."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs Summary:\nValérie Giraud has been evaluated as having excellent communication skills but needing to enhance her technical competencies. Her overall score is 68/100, indicating room for improvement in technical areas.\n\n2. Personalized Training Plan:\nBased on Valérie's evaluation, the following training programs are recommended:\n- Training 1: meilleures pratiques (Relevance score: 0.54)\n- Training 3: programme de formation en compétences techniques (Relevance score: 0.47)\n\n3. Addressing Employee's Specific Needs:\nThe \"meilleures pratiques\" training program will help Valérie enhance her communication skills by providing best practices for internal and external communication. This program focuses on optimizing message clarity, active listening, and fostering a culture of transparency and collaboration. By implementing the recommended practices, Valérie can further improve her already excellent communication skills.\n\nThe \"programme de formation en compétences techniques\" will address Valérie's need to strengthen her technical competencies. This program covers various IT topics such as programming, cybersecurity, data analysis, and modern collaborative tools. By completing this training, Valérie will gain practical skills in IT that can enhance her overall performance.\n\n4. Training Schedule:\nTo effectively balance Valérie's development needs, it is recommended to prioritize the technical training program first to address the identified gap. Following the completion of the technical training, Valérie can then proceed with the communication best practices program to further enhance her existing skills. A suggested training schedule could involve starting the technical training immediately and then transitioning to the communication training after a suitable interval to allow for application and integration of new skills.\n\nOverall, by following this personalized training plan, Valérie Giraud can strengthen her technical competencies and further excel in communication within the workplace.\n\nEnd of Report."
+  },
+  {
+    "employe": "Adrien Noël",
+    "evaluation": "Doit améliorer la gestion des imprévus et la planification.",
+    "score": 64,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_41",
+        "score": 0.5281464192027575,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-incidents",
+        "content": "Ce document rassemble les meilleures pratiques pour la gestion des incidents, proposant des protocoles clairs et des outils de communication pour répondre efficacement aux situations imprévues."
+      },
+      {
+        "id": "doc_27",
+        "score": 0.5207000100976827,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-risques",
+        "content": "Cette formation en gestion des risques propose des méthodes d'identification, d'évaluation et de mitigation des risques dans les projets, afin d'assurer une meilleure résilience organisationnelle."
+      },
+      {
+        "id": "doc_32",
+        "score": 0.5187682270939005,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/chaine-approvisionnement",
+        "content": "Cette formation en gestion de la chaîne d'approvisionnement permet d'optimiser les flux de production et de distribution en intégrant des solutions logistiques innovantes et des outils d'analyse prédictive."
+      }
+    ],
+    "recommendation": "Recommendation Report\n\n1. Development Needs Summary:\nAdrien Noël has been evaluated as needing improvement in managing unforeseen events and planning. With a score of 64/100, it is clear that there is room for growth in these areas.\n\n2. Proposed Training Plan:\nBased on the available training programs, the following personalized training plan is recommended for Adrien Noël:\n- Training 1: Best Practices in Incident Management (doc_41)\n- Training 2: Risk Management Training Program (doc_27)\n- Training 3: Supply Chain Management Training Program (doc_32)\n\n3. Addressing Specific Needs:\n- Training 1 on incident management will provide Adrien with clear protocols and communication tools to effectively handle unexpected situations.\n- Training 2 on risk management will equip Adrien with methods to identify, evaluate, and mitigate risks in projects, enhancing organizational resilience.\n- Training 3 on supply chain management will optimize production and distribution flows by integrating innovative logistics solutions and predictive analysis tools.\n\n4. Training Schedule:\nIt is recommended that Adrien Noël participate in the training programs in the following order:\n1. Best Practices in Incident Management (doc_41) - Week 1\n2. Risk Management Training Program (doc_27) - Week 2\n3. Supply Chain Management Training Program (doc_32) - Week 3\n\nBy completing these training programs in a sequential manner, Adrien will be able to address his specific development needs effectively and efficiently.\n\nThis personalized training plan aims to support Adrien Noël in enhancing his skills in managing unforeseen events and improving planning, ultimately contributing to his professional development and performance in the workplace."
+  },
+  {
+    "employe": "Aurélie Carpentier",
+    "evaluation": "Très bonne adaptabilité, à renforcer en gestion de projet.",
+    "score": 78,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_39",
+        "score": 0.557880150288556,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_27",
+        "score": 0.5274471991759774,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-risques",
+        "content": "Cette formation en gestion des risques propose des méthodes d'identification, d'évaluation et de mitigation des risques dans les projets, afin d'assurer une meilleure résilience organisationnelle."
+      },
+      {
+        "id": "doc_44",
+        "score": 0.4897261601138603,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/transformation-agile",
+        "content": "Ce document présente les meilleures pratiques pour une transformation agile, en illustrant comment les entreprises peuvent adapter leurs structures et méthodes de travail pour répondre aux défis du marché actuel."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nAurélie Carpentier has been evaluated as having very good adaptability but needing improvement in project management. With a score of 78/100, her training priority is medium.\n\n2. Personalized Training Plan:\nBased on the available training programs, I recommend enrolling Aurélie in the following courses:\n- Training 1: Programme de Formation en Gestion de Projet Agile (doc_39)\n- Training 2: Programme de Formation en Gestion des Risques (doc_27)\n\n3. Addressing Specific Needs:\nThe Programme de Formation en Gestion de Projet Agile will help Aurélie improve her project management skills by introducing agile principles and methods to enhance team responsiveness and efficiency in a constantly evolving environment. The Programme de Formation en Gestion des Risques will provide her with methods for identifying, evaluating, and mitigating risks in projects to ensure better organizational resilience.\n\n4. Training Schedule:\nI suggest that Aurélie begins with the Programme de Formation en Gestion de Projet Agile (doc_39) to strengthen her project management skills. Following this, she can proceed with the Programme de Formation en Gestion des Risques (doc_27) to further enhance her risk management capabilities. Both trainings can be completed within a reasonable timeframe to maximize their effectiveness in addressing her development needs.\n\nOverall, this personalized training plan will help Aurélie Carpentier enhance her project management and risk management skills, ultimately contributing to her professional growth and effectiveness in her role."
+  },
+  {
+    "employe": "Didier Marchal",
+    "evaluation": "Peut améliorer sa proactivité et son autonomie.",
+    "score": 66,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.4364864713914107,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.43246219267044145,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.4113413854405904,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      }
+    ],
+    "recommendation": "Recommendation Report for Didier Marchal:\n\n1. Development Needs:\nBased on the evaluation feedback, Didier Marchal can improve his proactivity and autonomy. His current score is 66/100, indicating room for growth in these areas.\n\n2. Personalized Training Plan:\nConsidering Didier's training priority level as medium, I recommend the following personalized training plan:\n- Training 1: \"Meilleures Pratiques\" (doc_5) for time management skills improvement.\n- Training 2: \"Programme de Formation en Développement Personnel\" (doc_19) for enhancing self-confidence, communication, and teamwork skills.\n- Training 3: \"Programme de Formation en Gestion de Projet Agile\" (doc_39) for introducing agile project management principles.\n\n3. Addressing Specific Needs:\n- Training 1 will help Didier better organize his day, reduce interruptions, and achieve professional goals more effectively through time management techniques.\n- Training 2 will focus on building confidence, improving communication, and fostering teamwork skills essential for his professional development.\n- Training 3 will introduce agile project management methods to enhance his reactivity and efficiency in project teams.\n\n4. Training Schedule:\nTo maximize Didier's learning experience and ensure effective implementation of acquired skills, I suggest the following training schedule:\n- Start with Training 1 for 2 weeks, allocating time daily for self-study.\n- Follow up with Training 2 for 18 hours spread over 3 weeks, attending interactive workshops and coaching sessions.\n- Conclude with Training 3 for 1 week, immersing in agile project management concepts.\n\nBy following this personalized training plan and schedule, Didier Marchal can enhance his proactivity, autonomy, and overall professional development effectively."
+  },
+  {
+    "employe": "Sandrine Baron",
+    "evaluation": "Excellentes compétences relationnelles, à encourager.",
+    "score": 80,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_6",
+        "score": 0.4774777020366685,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_23",
+        "score": 0.46226572340359323,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/service-client",
+        "content": "Le programme de formation en service client est conçu pour développer des compétences relationnelles et techniques afin d'améliorer la satisfaction et la fidélisation des clients, à travers des simulations et des retours d'expérience."
+      },
+      {
+        "id": "doc_46",
+        "score": 0.45731872065513646,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nSandrine Baron has been evaluated as having excellent relational skills that should be encouraged. With a score of 80/100, her training priority is medium. To further enhance her skills and performance, Sandrine would benefit from training programs that focus on team management, customer service, and talent management.\n\n2. Personalized Training Plan:\nBased on the available programs, I recommend the following personalized training plan for Sandrine:\n- Training 1 (doc_6) on meilleures pratiques for team management\n- Training 2 (doc_23) on customer service skills\n- Training 3 (doc_46) on talent management\n\n3. Addressing Specific Needs:\n- Training 1 will help Sandrine strengthen her team management skills by providing strategies for cohesion, delegation, and motivation. This program will also emphasize the importance of regular feedback and performance recognition, aligning with Sandrine's evaluation of excellent relational skills.\n- Training 2 will enhance Sandrine's customer service skills, enabling her to improve customer satisfaction and loyalty through practical simulations and feedback.\n- Training 3 will assist Sandrine in identifying, developing, and retaining key talents within the organization, preparing her for potential leadership roles and fostering a culture of mentorship.\n\n4. Training Schedule:\nI recommend allocating dedicated time for each training program to ensure Sandrine can fully engage and apply the learnings effectively. A schedule of one training session per month over the next three months would allow Sandrine to absorb the content gradually and implement the new skills in her daily work.\n\nBy following this personalized training plan, Sandrine Baron will have the opportunity to further develop her excellent relational skills and enhance her overall performance within the organization. Please feel free to reach out if you require any further assistance in implementing this training plan.\n\nThank you.\n\n[Your Name]\nHR Expert"
+  },
+  {
+    "employe": "Pascal Dupont",
+    "evaluation": "Manque de clarté dans la communication et la prise de décision.",
+    "score": 62,
+    "keywords": [
+      "communication"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_4",
+        "score": 0.4442359688426014,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.3998450173868751,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_20",
+        "score": 0.3905727595293699,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/restructuration-org",
+        "content": "Cette étude de cas analyse le processus de restructuration organisationnelle d'une entreprise confrontée à des défis de compétitivité. Le document décrit les changements apportés aux structures hiérarchiques, la réaffectation des ressources et la mise en œuvre de nouvelles stratégies pour améliorer l'efficacité interne.\n\nLes résultats montrent une meilleure agilité, une réduction des coûts et une amélioration de la communication interne. Les enseignements tirés offrent des pistes concrètes pour d'autres organisations en phase de transformation ou de réorganisation."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs Summary:\n   Pascal Dupont's evaluation highlights a lack of clarity in communication and decision-making, with a score of 62/100. This indicates a need for improvement in these areas to enhance his effectiveness in the workplace.\n\n2. Personalized Training Plan:\n   Based on the available training programs, it is recommended that Pascal participates in the following:\n   - Training 1: \"Meilleures Pratiques en Communication\" (doc_4)\n   - Training 2: \"Programme de Formation en Leadership\" (doc_2)\n\n3. How the Programs Address Specific Needs:\n   - Training 1 focuses on enhancing communication clarity, active listening, and fostering a culture of transparency and collaboration. This will help Pascal improve his communication skills and decision-making processes.\n   - Training 2 targets developing managerial and decision-making skills, which will benefit Pascal in effectively leading teams, resolving conflicts, motivating employees, and making strategic decisions.\n\n4. Training Schedule Recommendation:\n   Given Pascal's medium training priority, it is suggested that he first completes Training 1 (doc_4) to improve his communication skills. Following this, he can enroll in Training 2 (doc_2) to further enhance his leadership and decision-making abilities. A schedule of completing Training 1 within the next month and Training 2 within the subsequent two months would be appropriate.\n\nThis personalized training plan will address Pascal Dupont's specific development needs in communication and decision-making, ultimately contributing to his professional growth and performance in the workplace."
+  },
+  {
+    "employe": "Julie Lambert",
+    "evaluation": "Bonne maîtrise des outils numériques, à améliorer en gestion de projet.",
+    "score": 73,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_7",
+        "score": 0.5222349629007882,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/transformation-digitale",
+        "content": "Cette étude de cas explore la transformation digitale d'une entreprise traditionnelle qui a su moderniser ses processus en adoptant des technologies innovantes. L'analyse détaille les étapes clés du projet, les défis rencontrés et les solutions mises en place pour assurer une transition en douceur.\n\nLe document met en lumière l'importance de la formation des employés, de l'intégration des nouveaux outils numériques et de la réorganisation des processus internes. Les résultats obtenus illustrent une amélioration significative de l'efficacité opérationnelle et de la réactivité de l'entreprise face aux évolutions du marché."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.5209696820619811,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_53",
+        "score": 0.5014796692564211,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/digitalisation-admin",
+        "content": "Cette étude de cas examine la digitalisation des processus administratifs dans une organisation publique, mettant en lumière les étapes de transition, les défis rencontrés et les gains en efficacité obtenus."
+      }
+    ],
+    "recommendation": "Recommendation Report for Julie Lambert's Professional Development\n\n1. Development Needs:\nJulie Lambert's evaluation indicates a good grasp of digital tools but highlights the need for improvement in project management. Her overall score of 73/100 suggests a solid foundation with room for growth, making project management training a priority for her professional development.\n\n2. Personalized Training Plan:\nBased on Julie's evaluation and training priority, the following personalized training plan is proposed:\n- Training 1: \"Transformation Digitale\" (doc_7) - an in-depth case study on digital transformation in a traditional company, focusing on the importance of employee training, integration of new digital tools, and internal process reorganization.\n- Training 2: \"Projet Agile\" (doc_39) - a training program on agile project management principles and methods to enhance team responsiveness and effectiveness in a constantly evolving environment.\n\n3. Addressing Specific Needs:\n- Training 1 will help Julie understand the key steps in a digital transformation project, challenges faced, and solutions implemented, providing insights on how to improve project management skills in a digital context.\n- Training 2 will introduce Julie to agile project management principles, enabling her to enhance her ability to manage projects effectively in a dynamic and fast-paced environment.\n\n4. Training Schedule:\nTo maximize the benefits of the training programs, it is recommended that Julie completes Training 1 first to gain a deep understanding of digital transformation processes. Following this, she can proceed with Training 2 to enhance her project management skills in an agile context. A schedule of completing Training 1 within the next month and Training 2 within the subsequent two months is suggested to ensure a focused and effective learning experience.\n\nBy following this personalized training plan, Julie Lambert will be able to address her specific development needs in project management while leveraging the available training programs to enhance her skills in a digital and agile context. This targeted approach will support Julie's professional growth and contribute to her overall effectiveness in her role."
+  },
+  {
+    "employe": "Olivier Caron",
+    "evaluation": "Doit renforcer sa capacité à prioriser les tâches.",
+    "score": 65,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.48443703089194706,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_46",
+        "score": 0.41620475888120867,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.3879383079340539,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ],
+    "recommendation": "Recommendation Report for Olivier Caron's Professional Development\n\n1. Development Needs:\n   After evaluating Olivier Caron, it was identified that he needs to strengthen his ability to prioritize tasks. His current score is 65/100, indicating room for improvement in this area.\n\n2. Personalized Training Plan:\n   Based on Olivier's evaluation and the available training programs, the following personalized training plan is proposed:\n   - Training 1: Gestion du Temps (doc_5) - This program focuses on best practices in time management, including techniques like the Pomodoro method and task prioritization.\n   - Training 3: Management d'Équipe (doc_6) - This program provides guidance on team management strategies, including delegation and motivation techniques.\n\n3. Addressing Specific Needs:\n   Both Training 1 and Training 3 directly address Olivier's need to prioritize tasks and enhance his time management skills. By implementing the techniques and strategies outlined in these programs, Olivier can improve his ability to organize his day, reduce interruptions, and achieve his professional goals more effectively.\n\n4. Training Schedule:\n   To effectively incorporate these training programs into Olivier's professional development plan, it is recommended that he participate in Training 1 first to strengthen his time management skills. Following this, Training 3 can be completed to enhance his team management abilities. A schedule of completing one training program every month is suggested to allow sufficient time for implementation and practice of the learned strategies.\n\nOverall, by engaging in the proposed personalized training plan and following the suggested schedule, Olivier Caron can significantly improve his task prioritization skills and overall professional performance."
+  },
+  {
+    "employe": "Nathalie Faivre",
+    "evaluation": "Compétences techniques et relationnelles équilibrées, bon potentiel.",
+    "score": 77,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_46",
+        "score": 0.4658146180020606,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.44611161609761363,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      },
+      {
+        "id": "doc_23",
+        "score": 0.4230532646815228,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/service-client",
+        "content": "Le programme de formation en service client est conçu pour développer des compétences relationnelles et techniques afin d'améliorer la satisfaction et la fidélisation des clients, à travers des simulations et des retours d'expérience."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nNathalie Faivre has been evaluated as having balanced technical and interpersonal skills with good potential, scoring 77/100. Her training priority has been identified as medium.\n\n2. Personalized Training Plan:\nBased on the available training programs, the following personalized training plan is proposed for Nathalie:\n- Training 1: Programme de Formation en Gestion des Talents\n- Training 2: Programme de Formation en Développement Personnel\n\n3. Addressing Specific Needs:\n- Training 1 in Talent Management aims to identify, develop, and retain key skills within the organization, implementing career plans and mentorship programs. This will help Nathalie further enhance her technical and interpersonal skills, aligning with her evaluation feedback.\n- Training 2 in Personal Development focuses on building self-confidence, communication, teamwork, stress management, emotional intelligence, public speaking, and self-motivation. These skills are crucial for Nathalie's professional growth and success.\n\n4. Training Schedule:\nIt is recommended that Nathalie attends Training 1 in Talent Management first to strengthen her skills in talent identification and development. Following this, she can participate in Training 2 in Personal Development to enhance her soft skills. A schedule of one training session per quarter is suggested to allow ample time for application and integration of new knowledge and skills.\n\nOverall, this personalized training plan will help Nathalie Faivre further develop her technical and interpersonal skills, unlocking her full potential and contributing to her professional growth and success."
+  },
+  {
+    "employe": "Romain Marchand",
+    "evaluation": "Besoin d'améliorer l'organisation et la gestion du temps.",
+    "score": 63,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_5",
+        "score": 0.6010025036558112,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-temps",
+        "content": "Ce guide rassemble les meilleures pratiques en gestion du temps pour maximiser la productivité individuelle et collective. Il propose des techniques éprouvées comme la méthode Pomodoro, la priorisation des tâches et l'établissement d'un planning quotidien réaliste.\n\nEn suivant ces recommandations, les employés peuvent mieux organiser leur journée, réduire les interruptions et atteindre leurs objectifs professionnels plus efficacement. Le document s'appuie sur des retours d'expérience et des exemples concrets issus de diverses organisations."
+      },
+      {
+        "id": "doc_47",
+        "score": 0.4812416179032998,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/finances-personnelles",
+        "content": "Cette formation en gestion des finances personnelles pour professionnels offre des outils pour optimiser la gestion de budget, l'investissement et la planification financière, adaptés aux contraintes du milieu professionnel."
+      },
+      {
+        "id": "doc_35",
+        "score": 0.4760488401372266,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-operations",
+        "content": "Le programme de formation en gestion des opérations offre une approche complète pour coordonner et optimiser les activités quotidiennes de production, avec des outils d'analyse et des retours d'expérience pratiques."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nRomain Marchand has been identified as needing improvement in organization and time management based on his evaluation score of 63/100.\n\n2. Proposed Training Plan:\nBased on Romain's evaluation and training priority level, the following personalized training plan is recommended:\n- Training 1: \"meilleures pratiques\" in time management (doc_5)\n- Training 2: \"programme de formation\" in personal finance management (doc_47)\n\n3. How the Programs Address Specific Needs:\nTraining 1 focuses on providing Romain with best practices in time management, including techniques such as the Pomodoro method and task prioritization. This will help him better organize his day, reduce interruptions, and improve his overall productivity. Training 2 will equip him with tools to optimize his personal finances, which can also contribute to reducing stress and improving focus in the workplace.\n\n4. Training Schedule:\nIt is recommended that Romain first completes Training 1 to address his immediate need for improved time management skills. This can be followed by Training 2 to enhance his financial management abilities. A schedule of completing one training program every 2-3 weeks is suggested to allow for sufficient time to absorb and practice the skills learned.\n\nOverall, this personalized training plan aims to address Romain's specific development needs in organization and time management, as well as provide him with valuable skills in personal finance management to support his overall professional growth."
+  },
+  {
+    "employe": "Manon Gauthier",
+    "evaluation": "Très bonne gestion de la communication interne, à développer en leadership.",
+    "score": 76,
+    "keywords": [
+      "communication",
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_4",
+        "score": 0.6118288786855076,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/comm-pratiques",
+        "content": "Ce document présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise. Il détaille des méthodes pour optimiser la clarté des messages, instaurer une écoute active et favoriser une culture de transparence et de collaboration.\n\nLes recommandations incluent l'utilisation d'outils collaboratifs, l'organisation de réunions régulières et l'adoption de supports visuels pour renforcer l'impact des communications. Des études de cas et des témoignages illustrent la réussite de ces pratiques dans divers secteurs."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5156820286439561,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_52",
+        "score": 0.5003483385216292,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/communication-crise",
+        "content": "Ce document répertorie les meilleures pratiques en communication de crise, incluant la préparation de messages clés, la gestion des médias et la coordination avec les parties prenantes pour minimiser l'impact d'une situation critique."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nManon Gauthier has received a very good evaluation for her management of internal communication but has been advised to further develop her leadership skills. With a score of 76/100, her training priority is considered medium.\n\n2. Proposed Training Plan:\nBased on the available training programs, we recommend a personalized training plan for Manon that focuses on improving her leadership skills and enhancing her communication abilities. We suggest the following training programs:\n\n- Training 1: \"Meilleures Pratiques en Communication\" (doc_4)\n- Training 2: \"Gestion d'Équipe\" (doc_6)\n\n3. Explanation of How These Programs Address Manon's Needs:\nThe \"Meilleures Pratiques en Communication\" program (doc_4) will help Manon optimize her communication skills by providing her with strategies to improve clarity in messages, practice active listening, and foster a culture of transparency and collaboration. This will enhance her leadership abilities and enable her to effectively communicate with her team.\n\nThe \"Gestion d'Équipe\" program (doc_6) will focus on enhancing Manon's leadership skills by providing her with guidance on team management, fostering team cohesion, improving delegation, and motivating team members. By implementing the recommended strategies, Manon will be able to lead her team more effectively and achieve better results.\n\n4. Suggested Training Schedule:\nWe recommend that Manon participates in the \"Meilleures Pratiques en Communication\" program first, followed by the \"Gestion d'Équipe\" program. This will allow her to first strengthen her communication skills and then focus on enhancing her leadership abilities. We suggest a schedule that allows Manon to complete the training programs within a timeframe of 2-3 months to ensure a timely and effective development process.\n\nBy following this personalized training plan, Manon will be equipped with the necessary skills to excel in her role and further advance her career within the organization."
+  },
+  {
+    "employe": "Christophe Dupuis",
+    "evaluation": "Peut améliorer son autonomie et la qualité des livrables.",
+    "score": 68,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_9",
+        "score": 0.5110049455605781,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_14",
+        "score": 0.49297575911453934,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/amelioration-qualite",
+        "content": "Dans cette étude de cas, l'amélioration de la qualité des produits et services dans une entreprise manufacturière est analysée en profondeur. Le document détaille les stratégies adoptées, telles que la mise en place de systèmes de contrôle qualité rigoureux, la formation des équipes et la réalisation d'audits réguliers.\n\nLes résultats montrent une diminution significative des défauts, une augmentation de la satisfaction client et une meilleure conformité aux normes industrielles. Les enseignements tirés fournissent des pistes pour d'autres organisations cherchant à optimiser leurs processus qualité."
+      },
+      {
+        "id": "doc_59",
+        "score": 0.4587027327809762,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/supply-chain",
+        "content": "Cette formation en optimisation de la supply chain propose des stratégies pour améliorer la coordination entre les différents maillons logistiques, réduire les délais et optimiser la gestion des stocks à l'aide d'outils digitaux."
+      }
+    ],
+    "recommendation": "Recommendation Report\n\n1. Development Needs:\nChristophe Dupuis has been evaluated as needing improvement in autonomy and the quality of deliverables, with a score of 68/100. Based on this assessment, it is clear that Christophe would benefit from training programs that focus on enhancing his skills in process optimization, quality improvement, and supply chain management.\n\n2. Personalized Training Plan:\nTo address Christophe's development needs, we recommend the following training plan:\n- Training 1 (doc_9): étude de cas on process optimization\n- Training 2 (doc_14): étude de cas on quality improvement\n- Training 3 (doc_59): programme de formation on supply chain optimization\n\n3. Program Relevance:\nTraining 1 and 2 focus on process optimization and quality improvement, which directly align with Christophe's evaluation feedback. These programs will provide him with insights on identifying bottlenecks, implementing analytical tools, and engaging teams for continuous improvement. Training 3 will enhance his understanding of supply chain management, improving coordination between logistics operations and optimizing inventory management.\n\n4. Training Schedule:\nWe recommend Christophe to participate in Training 1 and 2 consecutively to deepen his knowledge in process optimization and quality improvement. After completing these, he can proceed with Training 3 to enhance his skills in supply chain optimization. A schedule of one training session per week would allow Christophe to apply new learnings progressively in his work.\n\nBy following this personalized training plan, Christophe Dupuis will be equipped with the necessary skills to enhance his autonomy and deliver high-quality outputs. This focused approach will contribute to his professional development and overall performance within the organization."
+  },
+  {
+    "employe": "Sarah Lambert",
+    "evaluation": "Excellente capacité d'analyse, à renforcer en gestion de projet.",
+    "score": 80,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_27",
+        "score": 0.5008225888512293,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-risques",
+        "content": "Cette formation en gestion des risques propose des méthodes d'identification, d'évaluation et de mitigation des risques dans les projets, afin d'assurer une meilleure résilience organisationnelle."
+      },
+      {
+        "id": "doc_55",
+        "score": 0.4982179391865461,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/effectivite-operationnelle",
+        "content": "Ce programme de formation en efficacité opérationnelle propose des outils d'analyse et d'optimisation des processus pour améliorer la productivité, réduire les coûts et renforcer la compétitivité de l'entreprise."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.4961789990169798,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs Summary:\n   Based on Sarah Lambert's evaluation, she has excellent analytical skills but needs to strengthen her project management abilities. Her overall score of 80/100 indicates room for improvement in this area.\n\n2. Proposed Training Plan:\n   Considering Sarah's training priority as medium, I recommend enrolling her in the following training programs:\n   - Training 1: \"Gestion des Risques\" (Risk Management) - ID: doc_27\n   - Training 2: \"Efficacité Opérationnelle\" (Operational Efficiency) - ID: doc_55\n   - Training 3: \"Optimisation des Processus\" (Process Optimization) - ID: doc_9\n\n3. Program Relevance to Employee's Needs:\n   - \"Gestion des Risques\": This program will provide Sarah with methods to identify, evaluate, and mitigate risks in projects, enhancing her project management skills.\n   - \"Efficacité Opérationnelle\": By offering tools for process analysis and optimization, this training will help Sarah improve productivity and competitiveness.\n   - \"Optimisation des Processus\": Focusing on process optimization, this case study will guide Sarah in reengineering processes, automating tasks, and achieving continuous improvement.\n\n4. Training Schedule Suggestion:\n   To maximize the benefits of these training programs, I recommend a structured schedule where Sarah completes one program every quarter. This will allow her to integrate new knowledge and skills gradually while balancing her workload effectively.\n\nBy following this personalized training plan, Sarah Lambert will have the opportunity to enhance her project management capabilities and drive organizational resilience and efficiency."
+  },
+  {
+    "employe": "Laurent Morel",
+    "evaluation": "Manque de dynamisme et d'initiative, formation recommandée.",
+    "score": 61,
+    "keywords": [
+      "leadership",
+      "autonomy"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.5377980848438935,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.5192838462551477,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.48237924307494423,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs Summary:\n   Laurent Morel's evaluation highlights a lack of dynamism and initiative, with a recommendation for further training. His score of 61/100 indicates room for improvement in his professional development.\n\n2. Personalized Training Plan:\n   Based on the available training programs, I recommend enrolling Laurent in Training 2, the leadership development program. This program is designed to enhance managerial skills, decision-making abilities, team management, conflict resolution, employee motivation, and strategic decision-making in a competitive environment.\n\n3. Program Relevance to Employee's Needs:\n   Training 2 directly addresses Laurent's specific needs by focusing on developing the skills and qualities he currently lacks, such as dynamism, initiative, and leadership abilities. The program's comprehensive content and practical exercises will help him become a more proactive and effective leader within the organization.\n\n4. Training Schedule:\n   Given the importance of the training and its duration of 32 hours, I recommend scheduling the sessions over a period of 2 months. This will allow Laurent to fully engage with the material, participate in coaching sessions, practice new skills, and apply them in his work environment effectively.\n\nBy following this personalized training plan, Laurent Morel can improve his performance, enhance his leadership capabilities, and contribute more effectively to the success of the organization."
+  },
+  {
+    "employe": "Justine Renaud",
+    "evaluation": "Bonne réactivité et adaptabilité, à encourager.",
+    "score": 75,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_44",
+        "score": 0.45902423908861245,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/transformation-agile",
+        "content": "Ce document présente les meilleures pratiques pour une transformation agile, en illustrant comment les entreprises peuvent adapter leurs structures et méthodes de travail pour répondre aux défis du marché actuel."
+      },
+      {
+        "id": "doc_39",
+        "score": 0.44766059286662385,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/projet-agile",
+        "content": "Ce programme de formation en gestion de projet agile introduit les principes et les méthodes agiles pour améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution."
+      },
+      {
+        "id": "doc_37",
+        "score": 0.43926718288631045,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-innovation",
+        "content": "Ce document présente un ensemble de meilleures pratiques pour stimuler l'innovation au sein des organisations, en favorisant la créativité, l'expérimentation et la collaboration interdisciplinaire."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nJustine Renaud has been evaluated positively for her good reactivity and adaptability, with a score of 75/100. It is recommended to encourage these qualities further to enhance her professional development. The training priority for Justine is considered medium, indicating a need for targeted development in specific areas.\n\n2. Personalized Training Plan:\nBased on the available training programs, the following personalized training plan is proposed for Justine Renaud:\n- Training 1: \"Meilleures pratiques - Transformation Agile\" (ID: doc_44)\n- Training 2: \"Programme de Formation - Projet Agile\" (ID: doc_39)\n\n3. Addressing Specific Needs:\nThe selected training programs focus on agile practices and project management, which align with Justine's evaluated strengths in reactivity and adaptability. By participating in these programs, Justine can further enhance her skills in agile methodologies, improve project management efficiency, and adapt to the dynamic market challenges effectively.\n\n4. Training Schedule:\nIt is recommended that Justine participate in Training 1 first to gain insights into transformation agile practices, followed by Training 2 to deepen her understanding of agile project management. A suggested schedule would be to complete Training 1 within the next month and Training 2 within the following month to allow for practical application of the learned concepts in a timely manner.\n\nThis personalized training plan aims to support Justine Renaud's professional development by building on her existing strengths and enhancing her skills in agile practices and project management. By following this plan and adhering to the suggested schedule, Justine can further excel in her role and contribute effectively to the organization's success."
+  },
+  {
+    "employe": "Marc Lemoine",
+    "evaluation": "Doit améliorer la gestion du stress et la communication.",
+    "score": 64,
+    "keywords": [
+      "communication",
+      "stress management"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_3",
+        "score": 0.6045871152396656,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-stress",
+        "content": "La formation en gestion du stress est destinée à aider les employés à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace. Le programme propose des techniques de relaxation, de méditation, et des outils pour mieux gérer les émotions dans un contexte professionnel.\n\nD'une durée de 20 heures et pour un coût d'environ 800 EUR, cette formation interactive combine des séances théoriques et des ateliers pratiques, permettant aux participants de bénéficier de conseils personnalisés et d'exercices de groupe pour une meilleure gestion de leur bien-être au travail."
+      },
+      {
+        "id": "doc_22",
+        "score": 0.5696966319894892,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5590795916078146,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\n   - Marc Lemoine requires improvement in stress management and communication skills.\n   - Evaluation score: 64/100\n   - Training priority: Medium\n\n2. Proposed Training Plan:\n   Based on Marc's development needs, the following personalized training plan is recommended:\n   - Training 1: Programme de formation en gestion du stress (doc_3)\n   - Training 2: Programme de formation en gestion des conflits (doc_22)\n\n3. Addressing Specific Needs:\n   - Training 1 (doc_3): This program focuses on helping employees identify stress sources and adopt effective coping strategies. It offers techniques for relaxation, meditation, and emotional management in a professional context, directly addressing Marc's stress management improvement requirement.\n   - Training 2 (doc_22): This training provides practical tools to resolve conflicts within teams, promoting constructive communication and effective mediation, which aligns with Marc's need to enhance communication skills.\n\n4. Training Schedule:\n   - It is recommended that Marc participates in Training 1 (doc_3) first to address his stress management needs.\n   - Following completion of Training 1, Marc can then proceed with Training 2 (doc_22) to further enhance his communication skills.\n   - Each training program is of a duration of 20 hours, so a suitable schedule could involve completing one program per month to allow for effective learning and application of skills.\n\nThis personalized training plan aims to support Marc Lemoine in improving his stress management and communication abilities, ultimately contributing to his professional development and overall performance in the workplace."
+  },
+  {
+    "employe": "Eva Dumas",
+    "evaluation": "Excellente compréhension des processus, à développer en leadership.",
+    "score": 79,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_58",
+        "score": 0.5449779896206473,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      },
+      {
+        "id": "doc_9",
+        "score": 0.5240722600750678,
+        "type": "étude de cas",
+        "source": "https://fakeurl.com/doc/optimisation-processus",
+        "content": "Cette étude de cas se concentre sur l'optimisation des processus opérationnels dans une grande entreprise. L'analyse porte sur la réingénierie des processus, l'automatisation des tâches et l'amélioration continue visant à réduire les délais et à améliorer la qualité des services rendus.\n\nLe document détaille les étapes d'identification des goulots d'étranglement, la mise en œuvre d'outils analytiques et l'engagement des équipes dans une démarche d'amélioration systématique. Les résultats démontrent une hausse de la productivité et une satisfaction client accrue."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.5007826485756062,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nEva Dumas has shown excellent understanding of processes but needs further development in leadership skills. Her evaluation score of 79/100 indicates a strong foundation but room for growth in leadership capabilities.\n\n2. Personalized Training Plan:\nBased on Eva's evaluation and training priority of medium, the following personalized training plan is proposed:\n- Training 1: Leadership Transformation Programme (ID: doc_58)\n- Training 3: Best Practices for Team Management (ID: doc_6)\n\n3. Addressing Specific Needs:\n- The Leadership Transformation Programme focuses on inspiring and motivating teams, emphasizing vision, empathy, and adaptability to rapid market changes. This will help Eva develop her leadership skills and become a more effective leader.\n- The Best Practices for Team Management document provides strategies for enhancing team cohesion, improving delegation, and motivating team members. By implementing these practices, Eva can strengthen her leadership abilities and enhance team performance.\n\n4. Training Schedule:\nIt is recommended that Eva attends the Leadership Transformation Programme first to enhance her leadership skills. Following completion of this program, she can then move on to the Best Practices for Team Management document to further develop her management capabilities. A schedule of completing the programs within a 3 to 6-month timeframe would be ideal to allow for practical application and reinforcement of the learned concepts.\n\nBy following this personalized training plan, Eva Dumas can effectively develop her leadership and management skills, ultimately contributing to her professional growth and the success of the organization."
+  },
+  {
+    "employe": "Thierry Simon",
+    "evaluation": "Besoin de renforcer la prise de décision et la gestion de conflit.",
+    "score": 66,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_22",
+        "score": 0.6352544505336013,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-conflits",
+        "content": "Cette formation en gestion des conflits offre des outils pratiques pour identifier, analyser et résoudre les différends au sein des équipes, en favorisant une communication constructive et une médiation efficace."
+      },
+      {
+        "id": "doc_2",
+        "score": 0.5511660868597615,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_6",
+        "score": 0.49282741841011435,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nThierry Simon has been evaluated as needing improvement in decision-making and conflict management skills, with a current score of 66/100.\n\n2. Proposed Training Plan:\nBased on Thierry's evaluation and the available training programs, I recommend enrolling him in the following programs:\n- Training 1: Conflict Management Program (doc_22)\n- Training 2: Leadership Development Program (doc_2)\n\n3. Addressing Specific Needs:\nThe Conflict Management Program will provide Thierry with practical tools to identify, analyze, and resolve conflicts within teams, promoting constructive communication and effective mediation. This will directly address his evaluation feedback on the need to strengthen conflict management skills.\n\nThe Leadership Development Program will focus on enhancing Thierry's managerial and decision-making abilities, including team management, conflict resolution, motivation, and strategic decision-making. These skills align with his identified development needs in decision-making.\n\n4. Training Schedule:\nI suggest Thierry attend the Conflict Management Program first to prioritize strengthening his conflict management skills. Following this, he can participate in the Leadership Development Program to further enhance his decision-making abilities. A schedule of attending the Conflict Management Program for 16 hours first, followed by the Leadership Development Program for 32 hours, would be appropriate.\n\nBy following this personalized training plan, Thierry can effectively address his development needs and enhance his professional skills in decision-making and conflict management. This tailored approach will support his growth and success in his role."
+  },
+  {
+    "employe": "Agnès Noël",
+    "evaluation": "Bonne capacité à collaborer en équipe, à améliorer en autonomie.",
+    "score": 70,
+    "keywords": [],
+    "formations_recommandees": [
+      {
+        "id": "doc_6",
+        "score": 0.4616793116946939,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/management-equipe",
+        "content": "Ce document offre un ensemble de conseils pour le management d'équipe, mettant en avant des stratégies pour renforcer la cohésion, améliorer la délégation et motiver les collaborateurs. Il aborde la mise en place de feedbacks réguliers et de systèmes de reconnaissance des performances.\n\nLes pratiques recommandées reposent sur des recherches en psychologie organisationnelle et sont illustrées par des études de cas démontrant l'impact positif d'un management efficace sur la performance globale de l'équipe."
+      },
+      {
+        "id": "doc_19",
+        "score": 0.4396461056674318,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/developpement-personnel",
+        "content": "Ce programme de formation en développement personnel vise à renforcer la confiance en soi, la communication et la capacité à travailler en équipe. Le cursus aborde des thématiques telles que la gestion du stress, l'intelligence émotionnelle, la prise de parole en public et l'auto-motivation.\n\nLa formation s'étale sur 18 heures et est proposée au tarif de 700 EUR. Elle comprend des ateliers interactifs, des exercices pratiques et des sessions de coaching, permettant ainsi aux participants de développer des compétences transversales essentielles pour leur épanouissement professionnel."
+      },
+      {
+        "id": "doc_37",
+        "score": 0.43728619092866355,
+        "type": "meilleures pratiques",
+        "source": "https://fakeurl.com/doc/gestion-innovation",
+        "content": "Ce document présente un ensemble de meilleures pratiques pour stimuler l'innovation au sein des organisations, en favorisant la créativité, l'expérimentation et la collaboration interdisciplinaire."
+      }
+    ],
+    "recommendation": "Recommendation Report\n\n1. Development Needs:\n   Agnès Noël has been evaluated as having a good ability to collaborate in a team and improve autonomously, with a score of 70/100. However, there is room for growth in enhancing her team management skills and fostering innovation within her role.\n\n2. Personalized Training Plan:\n   Based on the available training programs, it is recommended that Agnès Noël undergo the following training:\n   - Training 1: \"Meilleures Pratiques - Management d'Équipe\" from https://fakeurl.com/doc/management-equipe\n   - Training 3: \"Meilleures Pratiques - Gestion de l'Innovation\" from https://fakeurl.com/doc/gestion-innovation\n\n3. Addressing Specific Needs:\n   The \"Meilleures Pratiques - Management d'Équipe\" program will provide Agnès with strategies to strengthen team cohesion, improve delegation, and motivate team members. This will help her enhance her team management skills and foster a more collaborative work environment. The \"Meilleures Pratiques - Gestion de l'Innovation\" program will equip her with tools to stimulate innovation by fostering creativity, experimentation, and interdisciplinary collaboration within her role.\n\n4. Training Schedule:\n   It is recommended that Agnès Noël undergo the training programs in the following schedule:\n   - Training 1: \"Meilleures Pratiques - Management d'Équipe\" - 2 weeks from now\n   - Training 3: \"Meilleures Pratiques - Gestion de l'Innovation\" - 4 weeks from now\n\nBy following this personalized training plan, Agnès Noël will be able to further develop her team management skills and foster innovation within her role, ultimately leading to improved performance and growth in her professional development."
+  },
+  {
+    "employe": "Didier Bernard",
+    "evaluation": "Excellentes compétences techniques, formation en management recommandée.",
+    "score": 82,
+    "keywords": [
+      "leadership"
+    ],
+    "formations_recommandees": [
+      {
+        "id": "doc_2",
+        "score": 0.5995859158467076,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership",
+        "content": "Ce programme de formation en leadership a été élaboré pour développer les compétences managériales et décisionnelles des cadres. Le contenu couvre des sujets essentiels tels que la gestion d'équipe, la résolution de conflits, la motivation des collaborateurs et la prise de décision stratégique dans un environnement compétitif.\n\nLa formation se déroule sur 32 heures et a un coût approximatif de 1200 EUR. Les participants bénéficient de séances de coaching individuel, d'exercices de mise en situation et d'ateliers collaboratifs pour mettre en pratique les compétences acquises."
+      },
+      {
+        "id": "doc_46",
+        "score": 0.5575297341833011,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/gestion-talents",
+        "content": "Ce programme de formation en gestion des talents vise à identifier, développer et retenir les compétences clés au sein de l'entreprise, en mettant en place des plans de carrière et des programmes de mentorat."
+      },
+      {
+        "id": "doc_58",
+        "score": 0.5490405984381728,
+        "type": "programme de formation",
+        "source": "https://fakeurl.com/doc/leadership-transformationnel",
+        "content": "Le programme de formation en leadership transformationnel aide les dirigeants à inspirer et motiver leurs équipes, en mettant l'accent sur la vision, l'empathie et l'adaptation aux changements rapides du marché."
+      }
+    ],
+    "recommendation": "Recommendation Report:\n\n1. Development Needs:\nBased on the evaluation of Didier Bernard, it is identified that he possesses excellent technical skills but would benefit from management training. His overall score of 82/100 indicates a strong foundation but room for growth in leadership capabilities.\n\n2. Personalized Training Plan:\nTo address Didier's development needs, I recommend enrolling him in the following training programs:\n- Training 1: Leadership Development Program (doc_2)\n- Training 2: Talent Management Program (doc_46)\n\n3. How These Programs Address Specific Needs:\n- The Leadership Development Program will enhance Didier's managerial and decision-making skills, covering topics such as team management, conflict resolution, employee motivation, and strategic decision-making. This program will help him transition into a leadership role effectively.\n- The Talent Management Program will focus on identifying, developing, and retaining key skills within the organization, supporting Didier in creating career plans and mentorship programs for his team members. This will enable him to nurture and grow talent within his department.\n\n4. Training Schedule:\nI suggest enrolling Didier in the Leadership Development Program first, as it aligns closely with his identified training priority of medium. Following the completion of this program, he can then proceed to the Talent Management Program to further enhance his leadership skills and ability to manage talent effectively.\n\nOverall, by participating in these training programs, Didier will not only enhance his current skill set but also prepare himself for future leadership roles within the organization. I recommend implementing this personalized training plan to support his professional development and contribute to his overall success."
+  }
+]
