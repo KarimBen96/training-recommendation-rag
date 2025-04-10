@@ -2,7 +2,7 @@
 pipeline.py - Main pipeline of the training recommendation system
 
 Orchestrates the entire process of generating personalized training
-recommendations.
+recommendations using multiple specialized agents.
 """
 
 import os
@@ -16,6 +16,7 @@ from preprocessor import Preprocessor
 from corpus_indexer_mem import CorpusIndexer
 from retriever import Retriever
 from generator import Generator
+from agent import Agent
 
 # Load environment variables
 load_dotenv()
@@ -35,12 +36,21 @@ class RAGPipeline:
         self.preprocessed_file = os.path.join(data_dir, "preprocessed_employees.json")
         self.index_export_file = os.path.join(data_dir, "qdrant_export.json")
         self.enriched_file = os.path.join(data_dir, "enriched_employees.json")
+        self.multi_agent_enriched_file = os.path.join(
+            data_dir, "recommendations_multi_agents.json"
+        )
         self.recommendations_file = os.path.join(data_dir, "recommendations.json")
 
         print(f"Pipeline initialized with directory {data_dir}")
 
-    def run(self, force_indexing=False):
-        """Run the complete pipeline."""
+    def run(self, force_indexing=False, use_multi_agents=True):
+        """
+        Run the complete pipeline.
+
+        Args:
+            force_indexing: Whether to force re-indexing of the corpus
+            use_multi_agents: Whether to use the multi-agent approach
+        """
         start_time = time.time()
         print("Starting pipeline...")
 
@@ -66,21 +76,10 @@ class RAGPipeline:
                 f"Existing index found in {self.index_export_file}, skipping indexing"
             )
 
-        # Step 3: Search for relevant training programs
-        print("\n--- STEP 3: RETRIEVING RELEVANT TRAINING PROGRAMS ---")
-        retriever = Retriever()
-        # Add this line to load the index before searching
-        retriever.load_index(self.index_export_file)  # THIS LINE WAS MISSING
-        retriever.process_employees(
-            input_file=self.preprocessed_file, output_file=self.enriched_file
-        )
-
-        # Step 4: Generate recommendations
-        print("\n--- STEP 4: GENERATING RECOMMENDATIONS ---")
-        generator = Generator()
-        generator.process_employees(
-            input_file=self.enriched_file, output_file=self.recommendations_file
-        )
+        if use_multi_agents:
+            self._run_multi_agent_pipeline()
+        else:
+            self._run_single_agent_pipeline()
 
         # Display execution time
         elapsed_time = time.time() - start_time
@@ -90,6 +89,69 @@ class RAGPipeline:
         self.show_summary()
 
         return self.recommendations_file
+
+    def _run_single_agent_pipeline(self):
+        """Run the original single-agent pipeline."""
+        # Step 3: Search for relevant training programs
+        print("\n--- STEP 3: RETRIEVING RELEVANT TRAINING PROGRAMS (SINGLE AGENT) ---")
+        retriever = Retriever()
+        retriever.load_index(self.index_export_file)
+        retriever.process_employees(
+            input_file=self.preprocessed_file, output_file=self.enriched_file
+        )
+
+        # Step 4: Generate recommendations
+        print("\n--- STEP 4: GENERATING RECOMMENDATIONS (SINGLE AGENT) ---")
+        generator = Generator()
+        generator.process_employees(
+            input_file=self.enriched_file, output_file=self.recommendations_file
+        )
+
+    def _run_multi_agent_pipeline(self):
+        """Run the multi-agent pipeline with specialized agents."""
+        # Step 3: Process with specialized agents
+        print("\n--- STEP 3: RETRIEVING WITH SPECIALIZED AGENTS ---")
+
+        # Initialize retriever (shared by all agents)
+        retriever = Retriever()
+        retriever.load_index(self.index_export_file)
+
+        # Initialize agents
+        training_agent = Agent(
+            document_type="programme de formation", retriever=retriever
+        )
+        practices_agent = Agent(
+            document_type="meilleures pratiques", retriever=retriever
+        )
+        case_study_agent = Agent(document_type="étude de cas", retriever=retriever)
+
+        # Load preprocessed employees
+        with open(self.preprocessed_file, "r", encoding="utf-8") as f:
+            employees = json.load(f)
+
+        # Process with each agent
+        enriched_employees = []
+        for employee in employees:
+            # Get recommendations from each agent
+            result = employee.copy()
+            result = training_agent.process_employee(result)
+            result = practices_agent.process_employee(result)
+            result = case_study_agent.process_employee(result)
+            enriched_employees.append(result)
+
+        # Save enriched data
+        with open(self.recommendations_multi_agents_file, "w", encoding="utf-8") as f:
+            json.dump(enriched_employees, f, ensure_ascii=False, indent=2)
+
+        print(f"Multi-agent enriched data saved to {self.recommendations_multi_agents_file}")
+
+        # Step 4: Generate combined recommendations
+        print("\n--- STEP 4: GENERATING COMBINED RECOMMENDATIONS ---")
+        generator = Generator()
+        generator.process_multi_agent_employees(
+            input_file=self.recommendations_multi_agents_file,
+            output_file=self.recommendations_file,
+        )
 
     def show_summary(self):
         """Display a summary of the generated recommendations."""
@@ -133,7 +195,14 @@ if __name__ == "__main__":
     parser.add_argument(
         "--force-indexing", action="store_true", help="Force corpus reindexing"
     )
+    parser.add_argument(
+        "--single-agent",
+        action="store_true",
+        help="Use single agent instead of multi-agent",
+    )
     args = parser.parse_args()
 
     pipeline = RAGPipeline(data_dir=args.data_dir)
-    pipeline.run(force_indexing=args.force_indexing)
+    pipeline.run(
+        force_indexing=args.force_indexing, use_multi_agents=not args.single_agent
+    )
