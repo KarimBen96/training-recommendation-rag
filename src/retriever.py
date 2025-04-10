@@ -24,7 +24,7 @@ class Retriever:
         """Initialize the retriever with OpenAI embeddings."""
         # Initialize embeddings
         self.embeddings = OpenAIEmbeddings(
-            model="text-embedding-3-small", openai_api_key=os.getenv("OPENAI_API_KEY")
+            model=os.getenv("MODEL_NAME_EMBEDDING"), openai_api_key=os.getenv("OPENAI_API_KEY")
         )
 
         # The vectorstore will be loaded later

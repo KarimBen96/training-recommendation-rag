@@ -37,9 +37,12 @@ class RAGPipeline:
         self.index_export_file = os.path.join(data_dir, "qdrant_export.json")
         self.enriched_file = os.path.join(data_dir, "enriched_employees.json")
         self.multi_agent_enriched_file = os.path.join(
-            data_dir, "recommendations_multi_agents.json"
+            data_dir, "multi_agent_enriched.json"
         )
         self.recommendations_file = os.path.join(data_dir, "recommendations.json")
+        self.multi_agent_recommendations_file = os.path.join(
+            data_dir, "recommendations_multi_agent.json"
+        )
 
         print(f"Pipeline initialized with directory {data_dir}")
 
@@ -110,13 +113,14 @@ class RAGPipeline:
     def _run_multi_agent_pipeline(self):
         """Run the multi-agent pipeline with specialized agents."""
         # Step 3: Process with specialized agents
-        print("\n--- STEP 3: RETRIEVING WITH SPECIALIZED AGENTS ---")
+        print("\n--- STEP 3: RÉCUPÉRATION AVEC AGENTS SPÉCIALISÉS ---")
 
         # Initialize retriever (shared by all agents)
         retriever = Retriever()
         retriever.load_index(self.index_export_file)
 
         # Initialize agents
+        print("Initialisation des agents spécialisés...")
         training_agent = Agent(
             document_type="programme de formation", retriever=retriever
         )
@@ -130,60 +134,87 @@ class RAGPipeline:
             employees = json.load(f)
 
         # Process with each agent
+        print(f"Traitement de {len(employees)} employés avec les agents spécialisés...")
         enriched_employees = []
         for employee in employees:
+            print(f"Traitement de l'employé(e) : {employee['employe']}")
             # Get recommendations from each agent
             result = employee.copy()
             result = training_agent.process_employee(result)
             result = practices_agent.process_employee(result)
             result = case_study_agent.process_employee(result)
             enriched_employees.append(result)
+            print(f"Employé(e) {employee['employe']} traité(e) avec succès")
 
         # Save enriched data
-        with open(self.recommendations_multi_agents_file, "w", encoding="utf-8") as f:
+        with open(self.multi_agent_enriched_file, "w", encoding="utf-8") as f:
             json.dump(enriched_employees, f, ensure_ascii=False, indent=2)
 
-        print(f"Multi-agent enriched data saved to {self.recommendations_multi_agents_file}")
+        print(
+            f"Données enrichies par agents multiples sauvegardées dans {self.multi_agent_enriched_file}"
+        )
+
+        print(f"Multi-agent enriched data saved to {self.multi_agent_enriched_file}")
 
         # Step 4: Generate combined recommendations
         print("\n--- STEP 4: GENERATING COMBINED RECOMMENDATIONS ---")
         generator = Generator()
-        generator.process_multi_agent_employees(
-            input_file=self.recommendations_multi_agents_file,
-            output_file=self.recommendations_file,
+
+        # Load enriched employees data
+        with open(self.multi_agent_enriched_file, "r", encoding="utf-8") as f:
+            enriched_employees = json.load(f)
+
+        # Generate combined recommendations for each employee
+        final_recommendations = []
+        for employee in enriched_employees:
+            recommendation = generator.generate_combined_recommendation(employee)
+            final_recommendations.append(recommendation)
+
+        # Save the final recommendations
+        with open(self.multi_agent_recommendations_file, "w", encoding="utf-8") as f:
+            json.dump(final_recommendations, f, ensure_ascii=False, indent=2)
+
+        print(
+            f"Recommandations finales sauvegardées dans {self.multi_agent_recommendations_file}"
         )
 
     def show_summary(self):
         """Display a summary of the generated recommendations."""
         try:
+            # Determine which file to load based on the mode
+            if os.path.exists(self.multi_agent_recommendations_file):
+                recommendations_file = self.multi_agent_recommendations_file
+            else:
+                recommendations_file = self.recommendations_file
+
             # Load recommendations
-            with open(self.recommendations_file, "r", encoding="utf-8") as f:
+            with open(recommendations_file, "r", encoding="utf-8") as f:
                 recommendations = json.load(f)
 
             print("\n" + "=" * 70)
-            print(f"RECOMMENDATION SUMMARY ({len(recommendations)} employees)")
+            print(f"RÉSUMÉ DES RECOMMANDATIONS ({len(recommendations)} employés)")
             print("=" * 70)
 
             for i, rec in enumerate(recommendations, 1):
                 print(f"\n{i}. {rec['employe']}")
-                print(f"   Score: {rec['score']}/100")
-                print(f"   Evaluation: {rec['evaluation']}")
+                print(f"   Score : {rec['score']}/100")
+                print(f"   Évaluation : {rec['evaluation']}")
 
                 # Display the beginning of the recommendation
-                recommendation = rec.get("recommendation", "Not available")
+                recommendation = rec.get("recommendation", "Non disponible")
                 excerpt = (
                     recommendation[:100] + "..."
                     if len(recommendation) > 100
                     else recommendation
                 )
-                print(f"   Excerpt: {excerpt}")
+                print(f"   Extrait : {excerpt}")
 
             print("\n" + "=" * 70)
-            print(f"Recommendations file: {self.recommendations_file}")
+            print(f"Fichier de recommandations : {recommendations_file}")
             print("=" * 70)
 
         except Exception as e:
-            print(f"Error displaying summary: {e}")
+            print(f"Erreur lors de l'affichage du résumé : {e}")
 
 
 # Command line execution
